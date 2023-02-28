@@ -12,14 +12,12 @@ The Carpentries welcomes blog posts from our community members including worksho
 ### Sharing ready-to-publish drafts
 
 Our blog content is formatted in Markdown, and rendered as html thanks to Jekyll. You can submit your blog post draft in one of three ways
-- Email your blog post draft to community[at]carpentries[dot]org, or
+1. Email your blog post draft to community[at]carpentries[dot]org, or
 submit it through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and one of the team will follow up with you to get it published. (<mark>low time requirement</mark>)
 
-If you wish to submit a blog post about your favourite tool or workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you.
+2. Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to Markdown [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], add a YAML header to the top of your Markdown file, open an issue in The Carpentries blog GitHub repository with new post appended to the issue title. One of the team will help get it published. (<mark>moderate-time requirement</mark>)
 
-- Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to Markdown [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], add a YAML header to the top of your Markdown file, open an issue in The Carpentries blog GitHub repository with new post appended to the issue title. One of the team will help get it published. (<mark>moderate-time requirement</mark>)
-
-- Convert your post to Markdown [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], add a YAML header to the top of your Markdown file, and submit a Pull Request to The Carpentries blog GitHub repository (<mark>more tasking</mark>).
+3. Convert your post to Markdown [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], add a YAML header to the top of your Markdown file, and submit a Pull Request to The Carpentries blog GitHub repository (<mark>more tasking</mark>).
 
 Read below and find out how to contribute a blog post to
 
@@ -28,23 +26,20 @@ Read below and find out how to contribute a blog post to
 
 #### General recommendations
 
-* For our websites, we use lower kebab case for our file names pages. So
-  `example-page.md` is a valid file name but `ExamplePage.md` or `example_page`
-  are not.
 * Try to avoid using shorthand, acronyms, or contractions in the file names (and
   by extension in the permalinks).
 * Favor using the actual numbers in the file names and permakinks instead: use
   `12` rather than `twelve`.
-* When relevant, include `carpentries` in the file names and permalinks: favor
+* When relevant, include `carpentries` in the file names: favor
   `new-carpentries-team-member` over `new-team-member`.
-* Use 3 to 6 words to compose the file names (and permalinks) and the headings
+* Use 3 to 6 words to compose the file names and the headings
   on your page and blog posts.
 * For titles:
   * Please use title case 
   * We recommend making sure the title is descriptive and uses no more than 5-7 words. 
-  * When possible, use an action verb or call to action EX:"Amending the Carpentries Bylaws in 2020" or "Expanding The Carpentries Community in California"
+  * When possible, use an action verb or call to action e.g. :"Amending the Carpentries Bylaws in 2020" or "Expanding The Carpentries Community in California"
 * For headers/previews: 
-  * We recommend a full sentence that succinctly describes the contents of the blog. EX: "Read on to learn about our strategic plan progress through Q3 2020 (July - September)" or "Join us in welcoming our new Maintainer Community Lead!"
+  * We recommend a full sentence that succinctly describes the contents of the blog. E.g. : "Read on to learn about our strategic plan progress through Q3 2020 (July - September)" or "Join us in welcoming our new Maintainer Community Lead!"
   * Please avoid "in this blog post..."
   * If your title does not have a direct call to action, please include one in the header/preview text
 
@@ -59,16 +54,27 @@ there is a manual update to the website at 9:00, your post will appear soon
 after completion of the build triggered by this change.
 
 
-#### How to Contribute a Blog Post to The Carpentries blog
+#### Creating a Markdown file locally
+
+<!--- This section is for creating a markdown file on your local computer --->
+
+
+#### Creating a Markdown file in GitHub
 
 1.  Create a local [Markdown](https://guides.github.com/features/mastering-markdown/) file for your blog post 
-    and name it according to this convention and case (lower kebab case).
+    and name it according to this convention and case (lower kebab case). Make sure your file extention is .md for GitHub to recognise your file as a Markdown file. 
 
     `YYYY-MM-DD-filename.md`
 
     e.g.
 
     `2018-04-29-book-review-teaching.md`
+
+
+<!--- this section is for creating a markdown file directly in GitHub --->
+
+
+#### How to Contribute a Blog Post to The Carpentries blog
 
 2.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
 
@@ -85,6 +91,8 @@ after completion of the build triggered by this change.
     ```
 
     Separate the header block from the post text by inserting a new line.
+    
+    You can include a `time:` entry in the YAML header of the blog posts. The time is in the 24-hour format and in UTC. It is useful to think of this time as the earliest the post will appear on the website, but it could end up being published a few hours later. Our website is being built every 6 hours at 00:30, 06:30, 12:30, 18:30 UTC. So if you include `time: 08:00:00` in the YAML header of your post, your post will appear after the 12:30 build completes. However, if there is a manual update to the website at 9:00, your post will appear soon after completion of the build triggered by this change.
 
 3.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
 
