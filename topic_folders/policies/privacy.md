@@ -6,15 +6,16 @@ This Privacy Policy applies to The Carpentries and its associated lesson
 programs, Data Carpentry, Software Carpentry, and Library Carpentry
 (collectively, “We”, “Our”, “Us”). This Privacy Policy explains how we collect,
 use, and share the personal information that we gather in our organisational
-database AMY, on the subdomains and websites on carpentries.org, datacarpentry.org,
-software-carpentry.org, and librarycarpentry.org (the “Sites”), or through your
-use of our products and services. By continuing to use our Sites, you agree
-to the terms of this Privacy Policy.
+database [AMY](https://amy.carpentries.org), on the subdomains and websites on 
+carpentries.org, datacarpentry.org, software-carpentry.org, and librarycarpentry.org 
+(the “Sites”), or through your use of our products and services. By continuing to 
+use our Sites, you agree to the terms of this Privacy Policy.
 
 This Privacy Policy does not apply to any of the practices of our workshop
-partners, such as universities and other organizations, other than our practices
-expressly disclosed below. To understand how our workshop partners process your
-information, please refer to their privacy policy.
+partners ("Host" or "Hosting Organization"), such as universities and other 
+organizations, other than our practices expressly disclosed below. To understand 
+how our workshop partners process your information, please refer to their own privacy 
+policies.
 
 Please click the following links to learn more about our Privacy Policy:
 
@@ -45,7 +46,7 @@ You may give us information by:
 * requesting information on workshops or memberships
 * participating in any capacity in a workshop, training, or event
 * entering information through our online collaborative note taking tools
-* forms or surveys
+* submitting forms or surveys
 * entering into a membership agreement
 * making a donation
 * providing sponsorship
@@ -54,20 +55,23 @@ You may give us information by:
 
 The categories of information include:
 
-* Identifiers such as real name, GitHub username, ORCID identifier, and social
-  media account handles
+* Identifiers such as real name, email address, GitHub username, ORCID identifier, 
+  and social media account handles
 * Contact information, such as address, location, email, and telephone number
 * Financial information, such as bank account number, credit card number, or
   debit card number, for sponsorships, donations, and membership fees
 * If you choose to self-identify, for research purposes, characteristics of
   protected classifications, such as race, color, national origin, religion,
-  appartenance to volunteer organisations, gender, disability, age, ancestry,
+  relationship to volunteer organisations, gender, disability, age, ancestry,
   medical condition, marital status, or sexual orientation
 * Professional, employment, or education information, such as copies of your
   resume or CV and any other information required to verify your qualifications,
-  for Instructor and Core Team recruitment purposes
+  for Instructor and Core Team recruitment purposes, including any video recordings
+  of recruitment interviews you may have with us
 * Inferences regarding your familiarity with programming languages and general
   computing skills, to help tailor our workshops to you
+* Your expertise, lessons you may have attended or taught, and any languages you
+  may use to communicate
 
 ### Workshop Participants
 
@@ -77,7 +81,8 @@ The categories of information include:
 
 We collect the name, email address and event attended of workshop participants.
 If you are a learner or helper this information may be provided to us by you,
-or by the workshop host. This information is stored in our internal database, AMY.
+or by the workshop host. This information is stored in our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 **How is this information used?**
 
@@ -91,6 +96,10 @@ information to any third party. However, we may share de-identified aggregate
 or summary information regarding participants publicly or with volunteers, 
 member sites or third parties, including but not limited to funding entities.
 
+Workshop Hosts are bound by the Data Usage and Privacy stipulations within the 
+Workshop Agreement, and the Carpentries Code of Conduct (CoC) with respect to any 
+confidential information shared between the us and the Hosts.
+
 ### Instructors
 
 "Instructors" includes Instructors, Instructor Trainees and Instructor Applicants.
@@ -102,7 +111,8 @@ events and of current instructors. This information may be provided by the
 participant or event host. If you choose to complete a volunteer/instructor 
 profile, we will store your name, email address, gender, nearest airport 
 location, organisational affiliation, occupation, ORCID ID, GitHub, any social 
-media handles, and personal URL in our internal database, AMY.
+media handles, and personal URL in our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 **How is this information used?**
 
@@ -128,7 +138,8 @@ list of current Trainers, their active status and their availability. This
 information may be provided by you or the event host. If you choose to complete
 a Trainer profile, we may also collect your gender, nearest airport location,
 organisational affiliation, occupation, ORCID ID, GitHub, any social media handles,
-and personal URL in our internal database, AMY.
+and personal URL in our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 **How is this information used?**
 
@@ -151,11 +162,12 @@ or third parties, including but not limited to funding entities.
 _Maintainers:_
 We collect the name, email address, and language proficiency from Maintainers,
 as well information about their experience, motivation, and preferences as relates
-to the Maintainer role. If you choose to complete a Maintainer profile, we may
-also collect your ORCID ID and any information about your membership within any
-under-represented group in research and/or computing. After Maintainer Onboarding
-is complete, we also store your GitHub handle and information about the lesson(s)
-you maintain. This information is stored within our internal database, AMY.
+to the Maintainer role. If you choose to complete a Maintainer profile, we may also 
+collect your GitHub handle, information about the lesson(s) you maintain, the language 
+of those lessons, your ORCID ID, and any information about your membership within any 
+under-represented group in research and/or computing. This information is stored within 
+our internal database,
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 _Contributors:_
 When preparing a lesson for release, we extract publicly-available information
@@ -164,19 +176,20 @@ commits) from the commit history of the project. We do not otherwise actively
 collect other personal information from lesson Contributors.
 
 _Other Volunteers:_
-When people volunteer to review lessons in the Lab, we collect their name and
-email address. When people propose lessons to the Incubator, we ask them to provide
-their GitHub username.
+When you volunteer to review lessons in the Lab, we collect your name and email address.
+When you propose lessons to the 
+[Incubator](https://carpentries-incubator.org/), we ask you to provide your GitHub username.
 
 **How is this information used?**
 
 As a Maintainer or Contributor, we cross-reference your GitHub/name information
 against the community information stored in AMY to produce a `.zenodo.json` file
-for the lesson, which lists the  Maintainers (as Editors) and the other Contributors
+for the lesson, which lists the Maintainers (as Editors) and the other Contributors
 (as Authors). This file includes your GitHub handle or name, depending on the
-preference you have indicated in your AMY profile, and your ORCID ID if you provided
-it. With your consent, this information may be used in scientific publications or to
-credit authorship.
+preference you have indicated in your 
+[AMY profile](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles), 
+and your ORCID ID if you provided it. With your consent, this information may be used 
+in scientific publications or to credit authorship.
 
 Specifically as a Maintainer, we use your name on our websites, to list Maintainers
 as a whole and for specific lessons. We also use your name to add you to the
@@ -207,16 +220,19 @@ identifiable information to any third party. However, we may share de-identified
 or summary information regarding volunteers publicly or with other volunteers, member
 sites or third parties, including but not limited to funding entities.
 
-### Survey Respondents
+### Form and Survey Respondents
 
-Community and workshop participants are invited to participate in a variety of surveys
-to better serve our community. These include but are not limited to pre-workshop and
-post-workshop surveys of learners, and various opt-in surveys to evaluate programs or
-events.
+Community and workshop participants are invited to complete forms and questionnaires, and 
+contribute to a variety of surveys to better serve our community. These include but are 
+not limited to pre-workshop and post-workshop surveys of learners, and various opt-in 
+surveys to evaluate programs or events.
 
 **What information do we obtain?**
 
-Pre- and post-workshop surveys
+Pre- and post-workshop surveys represent a formal part of the workshop training process and 
+are vital to ensure that our lessons, organisation, Code of Conduct, and workshops adhere 
+to our vision, mission, and standards. The information collected within these surveys is 
+anonymised and used in reporting and impact studies.
 
 Other opt-in surveys that you may be sent are entirely voluntary and information is
 not collected in a way that it is linked to personally identifiable responses without
@@ -310,9 +326,10 @@ With your consent, we may share your name, education, social media account handl
 and professional affiliation with the public for your role in our community and
 other Core Team members’ biographies. The information you choose to provide to us 
 will determine how much information is shared with the public. You can opt-in or 
-opt-out of sharing your information publicly in your AMY profile. With your consent, 
-that you can revoke at any time, we may also share testimonials, reviews, alongside
-your personal information.
+opt-out of sharing your information publicly in your 
+[AMY profile](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
+With your consent, that you can revoke at any time, we may also share testimonials, 
+reviews, alongside your personal information.
 
 ### Carpentries Instructor applicants
 
@@ -342,6 +359,12 @@ you follow a link to any of these websites, please note that these websites
 have their own privacy policies and that we do not accept any responsibility
 or liability for these policies. Please check these policies before you
 submit any data to these websites.
+
+### Disclosures Requested by You
+
+You may exercise your rights to request the personal data we hold on you under 
+data protection law, and we are required to respond as quickly as possible within 
+one calendar month, starting from the day we receive your request.
 
 ### Disclosures Required by Law
 
@@ -400,6 +423,12 @@ action from you, we will assume you choose not to join these channels.
 
 ### Removing personal information
 
+The data we collect is characterized by specific, explicit, and legitimate interest
+to facilitate the continued functioning of the Carpentries organisation and its activities. 
+As such, we retain specific data indefinitely that allows us to contact active 
+volunteers, produce internal metrics and reports, and to publicly share anonymised impact 
+studies and scientific publications.
+
 Consent options regarding information held within the AMY database can be made by 
 you from within AMY itself. Any other requests by you to revoke consent from us
 holding any information on you outside the AMY database, please notify
@@ -407,7 +436,8 @@ admin@carpentries.org. If you choose to exclude your information, we will delete
 your personal information from our databases. However, this may interfere with our
 ability to give you credit for training events you have completed or contributions
 you have made to our lessons, to contact you about upcoming events in your area,
-and may affect your active status within our organisation.
+and may affect your active status within our organisation. Please contact us if
+you have any questions about removal or archival of your data.
 
 ### Marketing Opt-Out
 
