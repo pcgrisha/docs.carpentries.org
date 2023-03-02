@@ -1,6 +1,6 @@
 # The Carpentries Privacy Policy
 
-**Last updated:** 2023-01-31
+**Last updated:** 2023-03-02
 
 This Privacy Policy applies to The Carpentries and its associated lesson
 programs, Data Carpentry, Software Carpentry, and Library Carpentry
@@ -96,16 +96,9 @@ information to any third party. However, we may share de-identified aggregate
 or summary information regarding participants publicly or with volunteers, 
 member sites or third parties, including but not limited to funding entities.
 
-<<<<<<< HEAD
 Workshop Hosts are bound by the Data Usage and Privacy stipulations within the 
 Workshop Agreement, and the Carpentries Code of Conduct (CoC) with respect to any 
 confidential information shared between the us and the Hosts.
-=======
-Workshop Hosts ("Hosting Organisations") are bound by the Data Usage & Privacy
-stipulations within the Workshop Agreement, and the Carpentries Code of Conduct
-(CoC) with respect to any confidential information shared between the us and
-the Hosts.
->>>>>>> 3dcb0bf (Add workshop agreement statement)
 
 ### Instructors
 
@@ -183,8 +176,8 @@ commits) from the commit history of the project. We do not otherwise actively
 collect other personal information from lesson Contributors.
 
 _Other Volunteers:_
-When you volunteer to review lessons in the [Lab](https://carpentries-lab.org/), we collect your name and email address.
-When you propose lessons to the 
+When you volunteer to review lessons in the [Lab](https://carpentries-lab.org/), 
+we collect your name and email address. When you propose lessons to the 
 [Incubator](https://carpentries-incubator.org/), we collect your GitHub username.
 
 **How is this information used?**
