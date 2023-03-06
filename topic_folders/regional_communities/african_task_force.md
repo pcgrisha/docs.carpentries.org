@@ -52,7 +52,8 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts and other Carpentries activities in Africa
 
-- [Data Science and Machine Learning at PyCon Namibia 2023](https://medium.com/ubuntu-ai/data-science-and-machine-learning-at-pycon-namibia-2023-dbf0990cee1d) by Andreea Munteanu
+- [Looking back at PyCon Namibia 2023](https://na.pycon.org/2023/)
+-  [Data Science and Machine Learning at PyCon Namibia 2023](https://medium.com/ubuntu-ai/data-science-and-machine-learning-at-pycon-namibia-2023-dbf0990cee1d) by Andreea Munteanu
 - [IoT for Novices in South Africa](https://society-rse.org/iot-for-novices-in-south-africa/) by Jannetta Steyn
 - [CarpentryCon 2022: African Carpentries Monthly Meetup: Lanfrica](https://www.youtube.com/watch?v=9qy64xdIB2w) by Chris Emezue
 - [Behind the Scenes: What it took to run CarpentryConnect South Africa](https://www.codeforsociety.org/eventfund/updates/behind-the-scenes-what-it-took-to-run-carpentryconnect-south-africa) by Akashidiya Chakraborty, Angela Okune and Angelique Trusler
