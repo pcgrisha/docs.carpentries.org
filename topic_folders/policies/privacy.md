@@ -1,10 +1,6 @@
 # The Carpentries Privacy Policy
 
-<<<<<<< HEAD
 **Last updated:** 2023-03-10
-=======
-**Last updated:** 2023-03-02
->>>>>>> 31103101e58917ce1ab97514be96372dfbf4d31b
 
 This Privacy Policy applies to The Carpentries and its associated lesson
 programs, Data Carpentry, Software Carpentry, and Library Carpentry
