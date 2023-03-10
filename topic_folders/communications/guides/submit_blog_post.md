@@ -197,28 +197,27 @@ blog post, naming it according to the [requirements](#requirements) above. Then 
        
     - Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back 
       to the `_posts/<year>/<month>/` folder.
-
-5. Once you have completed your changes, you can click on the `Preview` tab to make sure your 
-   images are showing.
-
-6. Once you have previewed your file, commit it making sure `Commit directly to the 
+    
+9. Once you have previewed your file, commit it making sure `Commit directly to the 
    <new_patch_branch_name> branch.` is selected, and clicking `Commit changes`
 
-7. Congratulations, you're done!
+10. Congratulations, you're done!
 
-8. We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. 
-   Please review your pull request a few minutes after you have submitted it to make sure those 
-   tests have passed. These tests look for valid YAML headers and make sure that the post will 
-   build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull 
-   Request or reach out to you with more questions.
+We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. Please 
+review your pull request a few minutes after you have submitted it to make sure those tests have 
+passed. These tests look for valid YAML headers and make sure that the post will build properly. 
+Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach 
+out to you with more questions.
 
-#### Adding Images
+  
 
-9.  If you want to include images that are already hosted on the web, go to step 12.
+#### Uploading an image
 
-10. To upload any images, first make sure you are on the `<new_patch_branch_name>` branch by 
+1. If you want to include images that are already hosted on the web, go to step 4.
+
+2.. To upload any images, first make sure you are on the `<new_patch_branch_name>` branch by 
     clicking the drop down in the top left of the main code tab.
-
+    
     **Do NOT use `main` as the branch to upload images**. Use the PR branch name created in 
     step 7 or 8 above.
 
@@ -232,10 +231,10 @@ blog post, naming it according to the [requirements](#requirements) above. Then 
     - If the folder does exist, select the correct year and month folder into which you want to 
       upload your images, e.g. `carpentries.org/images/blog/2023/01/`.
 
-11. Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit 
-    directly to the <new_patch_branch_name>.` is selected, and click `Commit changes`.
+3. Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit 
+   directly to the <new_patch_branch_name>.` is selected, and click `Commit changes`.
      
-12. You can now edit your blog post markdown to link to the images you just uploaded.
+4. You can now edit your blog post markdown to link to the images you just uploaded.
 
     - Go back to the `_posts/<year>/<month>/` folder and select the blog post markdown file you 
       uploaded in step 7 or 8. Click the `Edit this file` button on the right, denoted by the 
@@ -270,6 +269,10 @@ blog post, naming it according to the [requirements](#requirements) above. Then 
     - If you are not sure how to add images in Markdown format, look at an
       [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
       and copy the formatting from there.
+     
+5. Once you have completed your changes, you can click on the `Preview` tab to make sure your 
+   images are showing.
+
 
 ### Troubleshooting
 
