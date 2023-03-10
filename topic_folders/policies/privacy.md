@@ -19,20 +19,20 @@ policies.
 
 Please click the following links to learn more about our Privacy Policy:
 
-1. [What Types of Personal Information Do We Collect?](#what-types-of-personal-information-do-we-collect)
-2. [How Do We Use Personal Information?](#how-do-we-use-personal-information)
-3. [How Do We Share Personal Information?](#how-do-we-share-personal-information)
-4. [How Do We Respond to ‘Do Not Track’ Signals?](#how-do-we-respond-to-do-not-track-signals)
-5. [Cookies](#cookies)
-6. [Your Privacy Choices](#your-privacy-choices)
-7. [Legal Bases for Processing (EEA Individuals)](#legal-bases-for-processing-eea-individuals)
-8. [EEA Individuals’ Rights](#eea-individuals-rights)
-9. [International Transfers of Data](#international-transfers-of-data)
-10. [Children’s Privacy](#childrens-privacy)
-11. [Change of Control](#change-of-control)
-12. [How Do We Protect Personal Information?](#how-do-we-protect-personal-information)
-13. [Policy Changes](#policy-changes)
-14. [Contact Information](#contact-information)
+1. [What Types of Personal Information Do We Collect?](#1-what-types-of-personal-information-do-we-collect)
+2. [How Do We Use Personal Information?](#2-how-do-we-use-personal-information)
+3. [How Do We Share Personal Information?](#3-how-do-we-share-personal-information)
+4. [How Do We Respond to ‘Do Not Track’ Signals?](#4-how-do-we-respond-to-do-not-track-signals)
+5. [Cookies](#5-cookies)
+6. [Your Privacy Choices](#6-your-privacy-choices)
+7. [Legal Bases for Processing (EEA Individuals)](#7-legal-bases-for-processing-eea-individuals)
+8. [EEA Individuals’ Rights](#8-eea-individuals-rights)
+9. [International Transfers of Data](#9-international-transfers-of-data)
+10. [Children’s Privacy](#10-childrens-privacy)
+11. [Change of Control](#11-change-of-control)
+12. [How Do We Protect Personal Information?](#12-how-do-we-protect-personal-information)
+13. [Policy Changes](#13-policy-changes)
+14. [Contact Information](#14-contact-information)
 
 ## 1. What Types of Personal Information Do We Collect?
 
