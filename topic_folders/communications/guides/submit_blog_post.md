@@ -3,6 +3,7 @@
 The Carpentries welcomes blog posts from our community members including workshop host sites,
 instructors, learners, and more. Are you interested in publishing a post on The Carpentries blog?
 
+
 ### Sharing blog post ideas
 
 - Join The Carpentries Slack and share your blog post idea in the #blog-post-ideas channel to start
@@ -12,15 +13,16 @@ discussion and invite other community members to collaborate with you (<mark>pre
 amplification of the idea in the community so others can reach out and collaborate with you
 (<mark>option</mark>)
 
+
 ### How to contribute a blog post
 
 Our blog content is formatted in Markdown, and rendered as HTML automatically. You can submit 
 your blog post draft in one of four ways.
 
-In all cases, please read the [Requirements](#requirements).
+__In all cases__, please read the [Requirements](#requirements).
 
-The former two methods are the preferred route for non-experts in GitHub, the latter two methods 
-are for those more confident in GitHub and editing Markdown locally:
+The former two methods are the preferred route for non-experts in GitHub, the latter method 
+is for those more confident in GitHub and who prefer to edit Markdown locally:
 
 #### Preferred Mechanisms
 
@@ -37,13 +39,16 @@ a Pull Request. Follow [these instructions](#creating-a-markdown-file-in-github)
 [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
 Follow [these instructions](#creating-a-markdown-file-locally).
 
-4. Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to Markdown 
+<!-- 4. Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to Markdown 
 [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
-Follow [these instructions](#creating-a-markdown-file-with-codimd).
+Follow [these instructions](#creating-a-markdown-file-with-codimd). -->
+
 
 ### Requirements
 
-All blog posts are required to follow certain standards for naming and formatting:
+Whether you create your markdown file [locally](#creating-a-markdown-file-locally) or online 
+via the [GitHub editor](#creating-a-markdown-file-in-github), please use the following naming
+conventions. All blog posts are required to follow certain standards for naming and formatting:
 
 - Name your Markdown file according to the lower kebab case convention (hyphens separate words).
 - Make sure your file extention is `.md` so that GitHub will recognise your file as Markdown.
@@ -77,30 +82,102 @@ e.g.
   * If your title does not have a direct call to action, please include one in the header/preview 
     text
 
+
+### Preparing the GitHub Repository
+
+Your blog post needs to be held in a specific date folder within the GitHub repository. To check 
+this: 
+
+1.  Go to <https://github.com/carpentries/carpentries.org>.
+
+2.  Click on the `_posts` folder, and go to the year in which you wish to add your 
+    post, e.g. `2023`.
+
+3.  There should be folders based on the month of that year, e.g. `02` for February,
+    `10` for October, etc.
+
+4.  If a folder already exists for the month in which you want your post to be published, 
+    you can skip the next step and continue with
+    [creating your Markdown file](#how-to-create-a-markdown-file).
+
+5.  If a folder does not exist for the month you need:
+
+    - Click on the year, e.g. `2023`, click `Add file` then `Create new file`, and in the box 
+      that says `Name your file...`, enter in the month followed by a slash and `.empty`, e.g.
+      `02/.empty`. This will create an empty file in the new directory - this is needed because
+      Git and GitHub cannot track empty folders. You don't need to use the `.empty` file for
+      any task, so you can ignore it from now on.
+       
+    - At the bottom of the page, select `Create a new branch for this commit and start a pull 
+      request`. make a note of the name of the patch, and click `Propose new file`.
+    
+      ![Create a new blog post folder](./images/blog_post-new_branch_new_folder.png)
+    
+    - On the next window, click `Create pull request`.
+    
+    - A new PR should now open, with a line that reads `<you> wants to merge 1 commit 
+      into main from <new_patch_branch_name>`. The `<new_patch_branch_name>` will match the name 
+      given to you when you created your PR.
+       
+    - Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back 
+      to the `_posts/<year>/<month>/` folder.
+       
+    - Make sure `Commit directly to the <new_patch_branch_name> branch` is selected.
+    
+    - Click `Commit changes`.
+    
+    - You can now continue with [creating your Markdown file](#how-to-create-a-markdown-file). 
+
+
 ### How to create a Markdown file
 
 Markdown files are text files, so need no special software to create and edit. You can use any 
-text editor or GitHub's online editor to work on your Markdown files.
+text editor or GitHub's online editor to work on your Markdown files. 
 
 #### Creating a Markdown file in GitHub
 
+Note that the online editor in GitHub __does not__ auto-save! You have to commit your changes
+to save your markdown file.
 
+1.  Make sure you are in the correct `_posts/<year>/<month>/` folder in the GitHub repository
+
+2.  Click `Add File` and select `Create new file...` in the dropdown
+
+3.  Provide the name of your file in the `Name your file...` box, using the naming convention
+    set out in the [Requirements](#requirements)
+
+4.  In the main editor window:
+
+    - Make sure you have entered the required information at the top of your file, as set out in
+      the [YAML header instructions](#specifying-the-required-yaml-header)
+    - Continue to write your blog post in the online editor, using the Preview tab if needed
+    - If you have any images to add, follow the [Uploading Images](#uploading-an-image) section
+
+5.  Submit a Pull Request to The Carpentries blog GitHub repository by
+    following [these instructions](#how-to-submit-your-github-markdown-file)
 
 #### Creating a Markdown file locally
 
 Using a text editor or your local operating system functions, create a local 
 [Markdown](https://guides.github.com/features/mastering-markdown/) file for your 
-blog post, naming it according to the [requirements](#requirements) above. Then either:
+blog post, naming it according to the [requirements](#requirements) above:
+
+- Make sure you have entered the required information at the top of your file, as set out in
+  the [YAML header instructions](#specifying-the-required-yaml-header)
+
+Then:
 
 - Open an issue in The Carpentries blog GitHub repository with new post appended to the issue 
   title, and one of the team will help get it published.
-- Submit a Pull Request to The Carpentries blog GitHub repository.
-  Follow [these instructions](#how-to-submit-your-blog-post).
 
-#### Creating a Markdown file with CodiMD
+__OR__
+
+- Submit a Pull Request to The Carpentries blog GitHub repository by
+  following [these instructions](#how-to-submit-your-local-markdown-file)
+
+<!-- #### Creating a Markdown file with CodiMD -->
 
 <!-- todo -->
-
 
 #### Specifying the Required YAML Header
 
@@ -140,68 +217,65 @@ blog post, naming it according to the [requirements](#requirements) above. Then 
 5.  If you want to add images to your blog post, please follow the [Adding Images](#adding-images) 
     instructions.
 
-### How to submit your blog post
 
-1.  To add your file to the github repository for blog posts,
-    please go to <https://github.com/carpentries/carpentries.org>.
+### How to submit your GitHub Markdown file
 
-2.  Click on the `_posts` folder, and go to the year and month in which you wish to add your 
-    post, e.g. `2023/01`.
+1.  Once you have finished editing your markdown file (you can always make more changes later!),
+    scroll to the bottom of the editor page.
 
-3.  If a folder does not exist for the month you need:
+2.  In the `Commit new file` section, add a short title in the first text box. Titles are 
+    usually in the present tense e.g. 
 
-    - Click on the year, e.g. `2023`, click `Add file` then `Create new file`, and in the box 
-      that says `Name your file...`, enter in the month followed by a slash, e.g. `02/`. The 
-      slash is very important to tell GitHub this is a folder.
-       
-    - At the bottom of the page, select `Create a new branch for this commit and start a pull 
-      request`. make a note of the name of the patch, and click `Propose new file`.
-    
-      ![Create a new blog post folder](./images/blog_post-new_branch_new_folder.png)
-    
-    - On the next window, click `Create pull request`.
-    
-    - You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit 
-      into main from <new_patch_branch_name>`. The `<new_patch_branch_name>` will match the name 
-      given to you when you created your PR.
-       
-    - Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back 
-      to the `_posts/<year>/<month>/` folder.
-    
-    - Click `Upload files`, drag your new blog post markdown file into the box, or click `choose 
-      your files` to open a file browser and select your files.
-       
-    - Make sure `Commit directly to the <new_patch_branch_name> branch` is selected.
-    
-    - Click `Commit changes`.
-    
-    - Go to step 9.
+    `Add Jan 2023 ABC University workshop blog post`
 
-4.  If a folder does already exist:
+3.  Add a description in the second text field if desired - this is not mandatory, but good 
+    practice
 
-    - Make sure you are in the correct `_posts/<year>/<month>/` folder.
-    
-    - Click `Upload files`, drag your new blog post markdown file into the box, or click `choose 
-      your files` to open a file browser, and select your file.
-       
-    - Click `Create a new branch for this commit and start a pull request` at the bottom of the 
-      page, make a note of the name of the patch, and click `Propose changes`.
-       
-      ![Create a new blog post PR branch](./images/blog_post-new_branch.png)
-       
-    - On the next window, click `Create pull request`.
-    
-    - You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit 
-      into main from <new_patch_branch_name>`. The `<new_patch_branch_name>` will match the name 
-      given to you when you created your PR.
-       
-    - Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back 
-      to the `_posts/<year>/<month>/` folder.
-    
-9. Once you have previewed your file, commit it making sure `Commit directly to the 
-   <new_patch_branch_name> branch.` is selected, and clicking `Commit changes`
+4.  Click `Create a new branch for this commit and start a pull request` at the bottom of the 
+    page, make a note of the name of the patch, and click `Propose new file`.
 
-10. Congratulations, you're done!
+    ![Create a new blog post PR branch](./images/blog_post-new_branch_github.png)
+
+    On the next page, click `Create pull request`.
+
+5.  A new PR will now be open, with a line that reads `<you> wants to merge 1 commit 
+    into main from <new_patch_branch_name>`. The `<new_patch_branch_name>` will match the name 
+    given to you when you created your PR.
+
+6.  If you wish to add any images, follow [Uploading an Image](#uploading-an-image) below,
+    remembering to use the new branch name of your open PR when committing your images.
+
+6.  Congratulations, you're done!
+
+
+### How to submit your local Markdown file
+
+1.  Make sure you are in the correct `_posts/<year>/<month>/` folder in the GitHub repository
+    
+2.  Click `Upload files`, drag your new blog post markdown file into the box, or click `choose 
+    your files` to open a file browser, select your file, and click OK.
+
+3.  Click `Create a new branch for this commit and start a pull request` at the bottom of the 
+    page, make a note of the name of the patch, and click `Propose changes`.
+       
+    ![Create a new blog post PR branch](./images/blog_post-new_branch.png)
+       
+    On the next page, click `Create pull request`.
+    
+4.  A new PR will now be open, with a line that reads `<you> wants to merge 1 commit 
+    into main from <new_patch_branch_name>`. The `<new_patch_branch_name>` will match the name 
+    given to you when you created your PR.
+       
+5.  Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back 
+    to the `_posts/<year>/<month>/` folder.
+    
+6.  Once you have previewed your file, commit it making sure `Commit directly to the 
+    <new_patch_branch_name> branch.` is selected, and by clicking `Commit changes`
+
+7.  Congratulations, you're done!
+
+
+### Post-submission checks
 
 We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. Please 
 review your pull request a few minutes after you have submitted it to make sure those tests have 
@@ -209,37 +283,38 @@ passed. These tests look for valid YAML headers and make sure that the post will
 Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach 
 out to you with more questions.
 
-  
 
-#### Uploading an image
+### Uploading an image
 
-1. If you want to include images that are already hosted on the web, go to step 4.
+1.  If you want to include images that are already hosted on the web, go to step 4.
 
-2.. To upload any images, first make sure you are on the `<new_patch_branch_name>` branch by 
-    clicking the drop down in the top left of the main code tab.
+2.  To upload any images from your local PC, first make sure you are on the 
+    `<new_patch_branch_name>` branch by clicking the drop down in the top left of the main code
+    tab.
     
-    **Do NOT use `main` as the branch to upload images**. Use the PR branch name created in 
-    step 7 or 8 above.
+    **Do NOT use `main` as the branch to upload images**. Use the PR branch name created in the 
+    [local](#how-to-submit-your-local-markdown-file) or 
+    [online](#how-to-submit-your-github-markdown-file) steps above.
 
     - Go to the `images/blog/` folder.
     
-    - If the year and month does not exist as in step 7 above, click `Add file`, `Create new 
-      file`. In the next window type the `<year>/<month>/` in the `Name your file...` box. 
-      Scroll to the bottom, make sure `Commit directly to the <new_patch_branch_name>.` is 
-      selected, and `Commit new file`.
+    - If the year and month does not exist as in [section above](#preparing-the-github-repository),
+      click `Add file`, `Create new file`. In the next window type the 
+      `<year>/<month>/` in the `Name your file...` box. Scroll to the bottom of the page and make 
+      sure `Commit directly to the <new_patch_branch_name>.` is selected. Then `Commit new file`.
        
-    - If the folder does exist, select the correct year and month folder into which you want to 
+    - If the folder does exist, click on the correct year and month folder into which you want to 
       upload your images, e.g. `carpentries.org/images/blog/2023/01/`.
 
-3. Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit 
-   directly to the <new_patch_branch_name>.` is selected, and click `Commit changes`.
+3.  Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit 
+    directly to the <new_patch_branch_name>.` is selected, and click `Commit changes`.
      
-4. You can now edit your blog post markdown to link to the images you just uploaded.
+4.  You can now edit your blog post markdown to link to the images you just uploaded.
 
     - Go back to the `_posts/<year>/<month>/` folder and select the blog post markdown file you 
-      uploaded in step 7 or 8. Click the `Edit this file` button on the right, denoted by the 
+      uploaded or edited online. Click the `Edit this file` button on the right, denoted by the 
       pencil icon to the right of the Raw and Blame buttons.
-       
+      
     - Images should be linked using Markdown, and paths to the image should be relative.
     
     - Make sure the naming of your images is descriptive of what they are showing.
@@ -269,9 +344,12 @@ out to you with more questions.
     - If you are not sure how to add images in Markdown format, look at an
       [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
       and copy the formatting from there.
-     
-5. Once you have completed your changes, you can click on the `Preview` tab to make sure your 
-   images are showing.
+
+5.  Once you have completed your changes, you can click on the `Preview` tab to make sure your 
+    images are showing.
+
+6.  To commit, follow the [local](#how-to-submit-your-local-markdown-file) or 
+    [online](#how-to-submit-your-github-markdown-file) submission step.
 
 
 ### Troubleshooting
