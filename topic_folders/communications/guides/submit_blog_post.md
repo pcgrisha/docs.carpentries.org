@@ -4,6 +4,20 @@ The Carpentries welcomes blog posts from our community members including worksho
 instructors, learners, and more. Are you interested in publishing a post on The Carpentries blog?
 
 
+### Table of Contents
+
+1.  [Sharing blog post ideas](#sharing-blog-post-ideas)
+2.  [How to contribute a blog post](#how-to-contribute-a-blog-post)
+3.  [Requirements](#requirements)
+4.  [Preparing the GitHub Repository](#preparing-the-github-repository)
+5.  [How to create a Markdown file](#how-to-create-a-markdown-file)
+6.  [How to submit your GitHub Markdown file](#how-to-submit-your-github-markdown-file)
+7.  [How to submit your local Markdown file](#how-to-submit-your-local-markdown-file)
+8.  [Post-submission checks](#post-submission-checks)
+9.  [Uploading an image](#uploading-an-image)
+10. [Troubleshooting](#troubleshooting)
+
+
 ### Sharing blog post ideas
 
 - Join The Carpentries Slack and share your blog post idea in the #blog-post-ideas channel to start
@@ -17,27 +31,31 @@ amplification of the idea in the community so others can reach out and collabora
 ### How to contribute a blog post
 
 Our blog content is formatted in Markdown, and rendered as HTML automatically. You can submit 
-your blog post draft in one of four ways.
+your blog post draft in one of three ways.
 
 __In all cases__, please read the [Requirements](#requirements).
 
-The former two methods are the preferred route for non-experts in GitHub, the latter method 
+, the latter method 
 is for those more confident in GitHub and who prefer to edit Markdown locally:
 
 #### Preferred Mechanisms
 
-1. Email your blog post draft to community[at]carpentries[dot]org, or
-submit it through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) 
-and one of the team will follow up with you to get it published.
+These methods are the preferred route for non-experts in Git and GitHub.
 
-2. Create and edit a Markdown file directly in The Carpentries blog GitHub repository, then raise 
-a Pull Request. Follow [these instructions](#creating-a-markdown-file-in-github).
+- Create and edit a Markdown file directly in The Carpentries blog GitHub repository, then raise 
+  a Pull Request. Follow [these instructions](#creating-a-markdown-file-in-github).
+
+__OR__
+
+- Email your blog post draft to community[at]carpentries[dot]org, or submit it through 
+  [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform)
+  and one of the team will follow up with you to get it published.
 
 #### For users confident in GitHub and Markdown
 
-3. Create a local text file with a `.md` extension, edit it as Markdown 
-[[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
-Follow [these instructions](#creating-a-markdown-file-locally).
+- Create a local text file with a `.md` extension, edit it as Markdown 
+  [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
+  Follow [these instructions](#creating-a-markdown-file-locally).
 
 <!-- 4. Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to Markdown 
 [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
