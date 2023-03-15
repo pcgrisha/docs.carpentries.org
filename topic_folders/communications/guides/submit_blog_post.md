@@ -35,12 +35,9 @@ your blog post draft in one of three ways.
 
 __In all cases__, please read the [Requirements](#requirements).
 
-, the latter method 
-is for those more confident in GitHub and who prefer to edit Markdown locally:
-
 #### Preferred Mechanisms
 
-These methods are the preferred route for non-experts in Git and GitHub.
+These methods are the preferred route for non-experts in Git and GitHub:
 
 - Create and edit a Markdown file directly in The Carpentries blog GitHub repository, then raise 
   a Pull Request. Follow [these instructions](#creating-a-markdown-file-in-github).
@@ -52,6 +49,8 @@ __OR__
   and one of the team will follow up with you to get it published.
 
 #### For users confident in GitHub and Markdown
+
+This method is suited to those more confident in GitHub and who prefer to edit Markdown locally:
 
 - Create a local text file with a `.md` extension, edit it as Markdown 
   [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
