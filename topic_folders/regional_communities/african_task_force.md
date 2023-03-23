@@ -18,7 +18,7 @@
 **2023 meetings**:
 * ~~26 January~~
 * ~~23 February~~
-* 23 March
+* ~~23 March~~
 * 20 April
 * 25 May
 * 22 June
