@@ -4,8 +4,6 @@ This guide aims to provide a standard reference point when questions arise about
 
 We will adhere to a similar style  on our website and in other material we make widely available such as blog posts. Lesson contributors and maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
 
-The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://www.twitter.com/cloudaus), is a first draft.
-
 Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
 ---
