@@ -52,12 +52,12 @@ __OR__
 
 This method is suited to those more confident in GitHub and who prefer to edit Markdown locally:
 
-- Create a local text file with a `.md` extension, edit it as Markdown 
-  [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
+- Create a local text file with a `.md` extension, edit it as  
+  [[Markdown](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
   Follow [these instructions](#creating-a-markdown-file-locally).
 
-<!-- 4. Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to Markdown 
-[[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
+<!-- 4. Create a [CodiMD](https://codimd.carpentries.org/) file, convert your post to  
+[[Markdown](https://www.markdownguide.org/cheat-sheet/)], and upload to GitHub. 
 Follow [these instructions](#creating-a-markdown-file-with-codimd). -->
 
 
