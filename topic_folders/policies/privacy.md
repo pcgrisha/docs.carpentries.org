@@ -116,9 +116,9 @@ media handles, and personal URL in our internal database,
 
 **How is this information used?**
 
-With your consent, we use this information to communicate with Instructors,
+We use this information to communicate with Instructors,
 including for Instructor Training events, training completion materials, 
-communication about the organisation, and opportunities to volunteer. 
+communication about the organisation, and opportunities to teach. 
 With your consent, we may use volunteer information to contact you about
 additional opt-in opportunities for assessment, training, teaching, volunteering
 and/or community engagement. We do not provide personally identifiable information 
@@ -143,9 +143,9 @@ and personal URL in our internal database,
 
 **How is this information used?**
 
-With your consent, we use this information to communicate with Trainers, 
+We use this information to communicate with Trainers, 
 including for Trainer Training events, training completion materials, 
-communication about the organisation, and opportunities to volunteer. 
+communication about the organisation, and opportunities to teach. 
 With your consent, we may use volunteer information to contact you about 
 additional opt-in opportunities for assessment, training, teaching, volunteering 
 and/or community engagement. We do not provide personally identifiable information 
