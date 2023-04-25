@@ -76,7 +76,7 @@ In all of these examples, you will have to switch from the tool you are using fo
 
 **Introductions**
 
-The introduction is one of the most important pieces of the workshop!  It sets the tone for the day.  See the [instructor training material](https://carpentries.github.io/instructor-training/23-introductions/index.html) for some suggestions of how to build a good workshop introduction.  
+The introduction is one of the most important pieces of the workshop!  It sets the tone for the day.  See the [instructor training material](https://carpentries.github.io/instructor-training/23-introductions.html) for some suggestions of how to build a good workshop introduction.  
 
 **Accessibility Check-In**
 
@@ -96,7 +96,7 @@ To be expanded, how to handle:
 
 **Varying Skill Level**
 
-Carpentries workshops frequently include many people with widely varying skills and experiences.  See the end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) for some strategies to deal with a diverse classroom.  
+Carpentries workshops frequently include many people with widely varying skills and experiences.  See the end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices.html) for some strategies to deal with a diverse classroom.  
 
 #### Preparing to Teach
 
