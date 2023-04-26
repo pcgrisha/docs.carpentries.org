@@ -7,7 +7,7 @@ AMY is a database application for The Carpentries.  It allows The Carpentries to
 * individual roles and badges
 * institutional membership
 
-Most functionality is limited to authorized administrative users.  Individuals whose data is tracked in AMY can view only their own profile page. [Read how to access and update your profile](/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile).
+Most functionality is limited to authorized administrative users.  Individuals whose data is tracked in AMY can view only their own profile page. [Read how to access and update your profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile).
 
 The code base can be found in the [AMY GitHub repo](https://github.com/carpentries/amy).  
 
