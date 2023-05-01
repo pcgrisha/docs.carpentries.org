@@ -1,83 +1,57 @@
-## Community Discussions
+## Community Sessions
 
-The Carpentries Community Development Team leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Discussion Hosts are [here](#checklists-community-discussions).  
+The Carpentries Community Development Team leads and organises Community Sessions. This document describes how community sessions are organised and conducted.  Checklists for the Session Hosts are [here](#checklists-community-discussions).  
 
-The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are four types of Community Discussions:
+The Carpentries Community Sessions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Session topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Sessions:
 
-1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community.
+1. __Community Discussion Session__ structured (e.g., panel discussion with Q&A) or flexibly structured session (e.g., networking session) on any topic relevant to the community that can be in any format of the host’s choosing
 
-2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies.
+2. __Skill-up Session__ session offering a professional development opportunity for the community where hosts teach relevant skills
 
-3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:
+3. __Collaboration Session__ session providing dedicated time and space to co-develop a community resource or to co-work on any community activity
 
-  - Carpentries en Latinoamérica    
-  - CarpentryCon Task Force
-  - Code of Conduct Committee    
-  - Instructor Development Committee
-  - Lesson Infrastructure Committee
-  - The Carpentries Executive Council     
+Read more about [Community Sessions](https://carpentries.org/community_discussions/) on The Carpentries website.
 
-4.	__Regional Community Calls__ These calls are hosted by our local and regional subcommunities. A list of local and regional calls can be found at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions).
-
-Read more about [Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
-
-### Motivation
-
-1. The Carpentries is a community-led project and the community needs opportunity to interact.
-
-2. The Carpentries believes in [jugyokenkyu](https://carpentries.github.io/instructor-training/11-practice-teaching/), or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
-
-3. The Carpentries is continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
 ### Who Can Host?
 
-Hosting community discussions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
+Hosting community sessions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a community discussion session. Sessions are coordinated by The Carpentries Community Development Team. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+Any member of The Carpentries community is welcome to host a community sessions. Sessions are coordinated by The Carpentries Community Development Team. To receive messages relating to sessions and hosting, make sure that you are subscribed to the [session hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
-A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you do not have to "fly solo" in your first session.
+A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time.
 
 
-#### Discussion Host Onboarding
+#### Session Host Onboarding
 
 Interested in becoming a session host? Not sure how or what would be required of you? No problem! Follow these steps:
 
 1. Email the Community Development Team (community@carpentries.org) to inform them of your interest. 
-2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://youtu.be/VrWdzlD2dlE) and then the accompanying [slides](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing ), presented by our Director of Community, Dr Alycia Crall.
-3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
-4. Have any other questions? Reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox list](https://swcarpentry.slack.com/archives/CBHECTZJN).
+2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch the Session Host Onboarding [video](https://youtu.be/VrWdzlD2dlE) and then the accompanying [slides](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing ), presented by our Director of Community, Dr Alycia Crall.
+3. To co-host a community session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
+4. Have any other questions? Reach out to the Session Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox list](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
-### Scheduling Discussion Sessions
+### Scheduling Community Sessions
 
-With the exception of Regional Community Calls, discussion sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
+With the exception of some sessions led by our subcommunities, community sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This allows The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter, please contact the team. Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
 
-If you are interested in adding a Regional Community Call to the Etherpad and having it added to the Community Calendar, please email community@carpentries.org.
+If you are interested in adding a session for your subcommunity to the Etherpad and having it added to the Community Calendar, please email community@carpentries.org.
 
 ### Expectations and Checklists
 
 #### Host Expectations
 
-* Primary role is to facilitate the community discussion using the agenda at the bottom of the Etherpad.
 * While it's the co-host's main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
 * Maintain focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
 * Ensure instructors teaching in the near future have urgent questions or concerns addressed.
 * Collect feedback from Instructors who have recently taught.
 * Engage newly trained Instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
 * Encourage attendees to create issues or pull requests to correct problems.
-* Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
+* Complete the [host questionnaire](https://forms.gle/KRnkXhqWQh6BLc9Z8) at the end of the community discussion.
 
-#### Co-Host Expectations
+#### Checklists - Community Sessions
 
-* Primary role is to assist with note-taking while the Host leads the discussion
-* Take accurate notes of discussion on the Etherpad
-* At the beginning of the call, introduce yourself as the co-host/notetaker
-* Co-hosts/notetakers do not have to be very active in the conversation
-* If a co-host/notetaker does want to chime in, it is welcome!
-* **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
-
-#### Checklists - Community Discussions
-
-Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the Community Discussions Etherpad and are available in the relevant calendar invites.
+Community sessions are organised and conducted through [the community session Etherpad](http://pad.carpentries.org/community-discussions). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the Community Discussions Etherpad and are available in the relevant event on our Community Calendar.
 
 ##### Before the Discussion Session 
 
