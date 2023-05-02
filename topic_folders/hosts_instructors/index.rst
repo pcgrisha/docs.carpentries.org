@@ -2,7 +2,7 @@ TEACHING AND HOSTING
 ##########################
 
 
-Certified instructors can view opportinities to teach Carpentries workshops `in AMY <https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#signing-up-to-teach>`_.   Join the `instructors mailing list <https://carpentries.topicbox.com/groups/instructors>`_ to be notified when new opportunities are posted.
+Certified instructors can view opportunities to teach Carpentries workshops `in AMY <https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#signing-up-to-teach>`_.   Join the `instructors mailing list <https://carpentries.topicbox.com/groups/instructors>`_ to be notified when new opportunities are posted.
 
 Certified instructors are also encouraged to run workshops themselves. When organising a workshop, you 
 have two options: a Centrally-Organised or Self-Organised workshop. 
