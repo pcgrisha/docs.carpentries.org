@@ -1,8 +1,8 @@
 ## Community Sessions
 
-The Carpentries Community Development Team leads and organises Community Sessions. This section describes how community sessions are organised and conducted.  Checklists for the Session Hosts are [here](#checklists-community-sessions).  
+The Carpentries Community Development Team manages Community Sessions which are led by Community Session Hosts. This section of the handbook describes how community sessions are organised and conducted.    
 
-The Carpentries Community Sessions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Session topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Sessions:
+The Carpentries Community Sessions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Session topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops. There are three types of Community Sessions:
 
 1. __Community Discussion Session__ structured (e.g., panel discussion with Q&A) or flexibly structured session (e.g., networking session) on any topic relevant to the community that can be in any format of the host’s choosing
 
@@ -10,14 +10,12 @@ The Carpentries Community Sessions are designed for everyone in The Carpentries 
 
 3. __Collaboration Session__ session providing dedicated time and space to co-develop a community resource or to co-work on any community activity
 
-Read more about [Community Sessions](https://carpentries.org/community_discussions/) on The Carpentries website.
-
 
 ### Who Can Host?
 
 Hosting community sessions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any member of The Carpentries community is welcome to host a community sessions. Sessions are coordinated by The Carpentries Community Development Team. To receive messages relating to sessions and hosting, make sure that you are subscribed to the [session hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts) or following the discussion-hosts channel on Slack.
+Any member of The Carpentries community is welcome to host a community session. Sessions are coordinated by The Carpentries Community Development Team. To receive messages relating to sessions and hosting, make sure that you are subscribed to the [session hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts) or follow the #discussion-hosts channel on the Slack workspace.
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time.
 
@@ -26,62 +24,37 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 Interested in becoming a Community Session Host? There are two options for onboarding, and it will take 15 or 45 minutes of your time, depending on which option you choose. 
 
-1. **Attend an onboarding session.** These are hosted each quarter. [Contact the Community Development Team](mailto: community@carpentries.org) to find out when the next session will be. 
-2. **Watch the onboarding video.** [The video can be found on our YouTube channel](https://youtu.be/VrWdzlD2dlE) and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto: community@carpentries.org) with the subject "Community Session Host Onboarding" so we can record that you have beed onboarded to the role.
+1. **Attend an onboarding session.** These are hosted each quarter. [Contact the Community Development Team](mailto:community@carpentries.org) to find out when the next session will be. 
+2. **Watch the onboarding video.** [The video can be found on our YouTube channel](https://youtu.be/VrWdzlD2dlE) and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto:community@carpentries.org) with the subject "Community Session Host Onboarding" so we can record that you have beed onboarded to the role.
 
 ### Scheduling Community Sessions
 
-With the exception of some sessions led by our subcommunities, community sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This allows The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of the quarter scheduling period, please [contact the team](mailto: community@carpentries.org). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
+With the exception of some sessions led by our subcommunities, community sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This allows The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of the quarter scheduling period, please [contact us](mailto:community@carpentries.org). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
 
-If you are interested in adding a session for your subcommunity to the Etherpad and having it added to the Community Calendar, please email community@carpentries.org.
+### Community Session Host Checklist
 
-### Checklists - Community Sessions
-
-Community sessions are organised and conducted through [the community session Etherpad](https://pad.carpentries.org/community-sessions-2023). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the community session Etherpad and are available in the relevant event on our Community Calendar.
+Community sessions are organised and conducted through the community session Etherpad, which are updated each year (https://pad.carpentries.org/community-sessions-YYYY). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the community session Etherpad and are available in the relevant event on our [Community Calendar](https://carpentries.org/community/#community-events).
 
 #### Before the Discussion Session 
 
 - Be sure to sign on at least five minutes before the call so you can welcome community members as they sign on. Introduce yourself as the host and add a link to where the notes will be captured in the Zoom chat.  
-- Add the agenda for your session to the notes. You can use the Community Sessions Etherpad by copying and pasting your agenda under the space where participants sign up to attend.
-- Identify a notetaker if needed.
-- Claim host by following the instructions shared with you in your session confirmation email.  
+- Add the agenda for your session to the notes. If you use the Community Sessions Etherpad for notetaking, by copy and paste your agenda under the space where participants sign up to attend.
+- Assign a notetaker if needed.
+- Claim host by following the instructions shared with you in your session confirmation email. If you did not receive a confirmation email, [contact the Community Development Team]mailto:community@carpentries.org).  
 
 #### During the Discussion Session 
 
 You can follow the agenda below to guide a pre-post workshop discussion session. This and additional agenda templates can be found at the botom of the Community Discussions Etherpad. 
 
-- Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
+- Welcome, introductions, and reminder of Code of Conduct  
   - [Code of Conduct Link](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-- Host introduction
-- Co-host/notetaker introduction
-- Attendee introductions
-  - Name, affiliation/position, purpose for attending
-- Report from previous workshops (10-25 minutes: 2-3 minutes per workshop plus about 5-10 minutes for questions)   
-  - Share some significant accomplishments and obstacles.   
-  - Any changes or additions to lesson material?  
-- Preparing for upcoming workshops (10 minutes)
-  - Specific questions about teaching and/or lessons?
-  - How are instructors sharing roles/responsibilities?  Is there a designated "lead instructor" or will you act as co-instructors?
-- Discussion Questions [Use Zoom Breakout Rooms for large groups](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts) (15 minutes)
-  - Hosts: Choose 1-3 of these questions, or add your own.
-  - What additional resources would be useful to you in teaching or preparing for a workshop?
-  - Do you find the instructor notes helpful? How do you use them? How could they be more useful?
-  - What are you most excited about for teaching with The Carpentries?
-- Preparing for instructor training checkout (2 minutes)
-  - Questions about checkout procedure, lessons, or workshop organisation?
-  - Have you asked a question here yet?
-- Closing (Main Room) (3 minutes)   
-  - Reports from breakout rooms   
-  - Q&A   
-  - Export the Etherpad (button at top right) if you would like to save notes from your session and delete your session's notes.
+- Provide multiple options for participation (e.g. raise hand feature in Zoom, type question into chat)
+- If you used the Community Sessions Etherpad for notetaking and would like to save your notes, be sure to export the Etherpad by clicking "Export/Import" which displays as two arrows in the features panel. Remind attendees to do the same.
   - Thank attendees for participating
 
-Based on discussion among the Instructor Development Committee, temporary questions may be added to the agenda for a month of sessions, in order to collect data on specific issues.  
-
-- Take notes 
 
 #### After the Discussion Session
-- Archive the Etherpad by clicking on the star in the top right corner.  
+- Archive the Etherpad by clicking "Save Revision" which displays as star in the features panel.  
 - Fill out the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7)
     - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into the questionnaire.
     - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to instructor.training@carpentries.org.
