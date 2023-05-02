@@ -1,6 +1,6 @@
 ## Community Sessions
 
-The Carpentries Community Development Team leads and organises Community Sessions. This document describes how community sessions are organised and conducted.  Checklists for the Session Hosts are [here](#checklists-community-discussions).  
+The Carpentries Community Development Team leads and organises Community Sessions. This section describes how community sessions are organised and conducted.  Checklists for the Session Hosts are [here](#checklists-community-sessions).  
 
 The Carpentries Community Sessions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Session topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Sessions:
 
@@ -33,7 +33,7 @@ Interested in becoming a session host? Not sure how or what would be required of
 
 ### Scheduling Community Sessions
 
-With the exception of some sessions led by our subcommunities, community sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This allows The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter, please contact the team. Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
+With the exception of some sessions led by our subcommunities, community sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This allows The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of the quarter scheduling period, please contact the team. Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
 
 If you are interested in adding a session for your subcommunity to the Etherpad and having it added to the Community Calendar, please email community@carpentries.org.
 
@@ -51,14 +51,13 @@ If you are interested in adding a session for your subcommunity to the Etherpad 
 
 #### Checklists - Community Sessions
 
-Community sessions are organised and conducted through [the community session Etherpad](http://pad.carpentries.org/community-discussions). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the Community Discussions Etherpad and are available in the relevant event on our Community Calendar.
+Community sessions are organised and conducted through [the community session Etherpad](https://pad.carpentries.org/community-sessions-2023). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the community session Etherpad and are available in the relevant event on our Community Calendar.
 
 ##### Before the Discussion Session 
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
 - (Optional) If a group is very large and you have a co-host, you can split the group in two, using the [Breakout Rooms feature in Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts).
-- Copy the agenda from the bottom of the Etherpad to the space under your time slot
 - Lead the discussion
     - We recommend following the main points of the agenda, but feel free to let discussion go where people want.  Not all the questions need to be answered by everyone.  
     - You should not feel like *you* have to answer all the questions as the host - draw on the
@@ -114,17 +113,13 @@ Based on discussion among the Instructor Development Committee, temporary questi
 
 The content below comes from [this blog post](https://carpentries.org/blog/2019/05/community-discussions-primer/).
 
-##### What if I am hosting a discussion and there are no pre/post workshop debriefs?
-
-You could start by introducing the session and what it should be about. You could also give some feedback on your own experience in previous workshops and/or upcoming workshops that you are a part of.
-
 ##### What if I do not know the answer to someone's questions and no one in the room does either?
 
 It is totally fine if you do not know all the answers. In such a situation you are welcome to refer the question to someone within The Carpentries community that will have the answer. If not, you could always send your question to [community@carpentries.org](mailto:community@carpentries.org).
 
 ##### What if the host/co-host has a poor internet connection and is unable to communicate? What if Zoom fails to work (e.g. your internet connection fails?)
 
-It is very important to test your internet connection beforehand and to make sure that you as a host are able to communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection you find that you do not have a good connection, reach out to the community to see if someone could take over as host for that session. Do this by sending a message to [discussion-hosts on TopicBox](https://carpentries.topicbox.com/groups/discussion-hosts).
+It is very important to test your internet connection beforehand and to make sure that you as a host are able to communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection you find that you do not have a good connection, reach out to the community to see if someone could take over as host for that session. Do this by sending a message to the discussion-hosts channel on Slack or [discussion-hosts on TopicBox](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 ##### What if a group from a single site has connectivity issues?
 
@@ -162,17 +157,17 @@ In the case that this happens The Carpentries has a set of [guidelines](https://
 
 Always try and encourage participation. This can be done by asking them a question or asking them their thoughts on a specific topic of conversation. There is also a point in the agenda that allows you as the host to talk to participants and ask them each for a specific question that they need answering.
 
-##### What if someone asks me to join the instructor checkout session and it is already full?
+##### What if someone asks me to join the session and it is already full?
 
-Participants can email the host and ask if it would be ok with them if they joined the session although it is already fully booked.
+Participants can email the host directly and ask if it would be ok with them if they joined the session although it is already fully booked.
 
-##### What if someone is loud/obnoxious and/or talks down to other people?
+##### What if someone talks down to other people?
 
-It is very important to remind everyone of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) as The Carpentries observes it in every community discussion. This will be a clear violation of this and you could ask the person to leave.
+It is very important to remind everyone of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) as The Carpentries observes it in every community event. This will be a clear violation of this and you could ask the person to leave.
 
 ##### What if I am having trouble understanding one of the attendees?
 
-You could ask the participant to type their questions in the Community Discussions Etherpad for you to read and respond to them, which will also make note taking much easier. Consider asking them to speak up if the microphone is too soft.
+You could ask the participant to type their questions in the Community Sessions Etherpad for you to read and respond to them, which will also make note taking much easier. Consider asking them to speak up if the microphone is too soft.
 
 
 
