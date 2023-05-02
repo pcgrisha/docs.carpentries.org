@@ -11,22 +11,22 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 
 *Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrolment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
-A calendar for upcoming instructor training events is [here](https://carpentries.github.io/instructor-training/training_calendar/).
+A calendar for upcoming instructor training events is [here](https://carpentries.github.io/instructor-training/training_calendar.html).
 
 #### Trainer Checklists
 
 ##### Running an Instructor Training Event (General)
 
-Please see the [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html) section of the Instructor Training Curriculum for guidelines on preparing to teach an Instructor Training Event. 
+Please see the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html) section of the Instructor Training Curriculum for guidelines on preparing to teach an Instructor Training Event. 
 
 #### Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video]. Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips) section of the Instructor Training Curriculum. 
+If you would like to watch an example teaching demo, there is a recording of one [here][demo-video]. Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html#vi.-teaching-demonstration-tips) section of the Instructor Training Curriculum. 
 
 ##### Before the demo 
 - Get acquainted with using [Zoom](../communications/tools/zoom_rooms.md) for videoconferencing.
 - A day or two before the demo, send a reminder email using the [email template](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
-- For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
+- For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons) (under *More*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### During the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
@@ -64,7 +64,7 @@ Trainers may choose to cancel a teaching demo if few or no trainees have signed 
 
 ##### Starting Points for Demos
 
-This table has moved. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*).
+This table has moved. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons.html) (under *Extras*).
 
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
@@ -81,6 +81,6 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
 [demo-pad]: https://pad.carpentries.org/teaching-demos
-[demo-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[demo-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 
 
