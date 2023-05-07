@@ -22,10 +22,10 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 #### Session Host Onboarding
 
-Interested in becoming a Community Session Host? There are two options for onboarding, and it will take 15 or 45 minutes of your time, depending on which option you choose. 
+If you are interested in becoming a Community Session Host, there are two options for onboarding, and it will take 15 or ~45 minutes of your time, depending on which option you choose. 
 
 1. **Attend an onboarding session.** These are hosted each quarter. [Contact the Community Development Team](mailto:community@carpentries.org) to find out when the next session will be. 
-2. **Watch the onboarding video.** [The video can be found on our YouTube channel](https://youtu.be/VrWdzlD2dlE) and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto:community@carpentries.org) with the subject "Community Session Host Onboarding" so we can record that you have beed onboarded to the role.
+2. **Watch the onboarding video.** The video can be found on our YouTube channel (Available 10 May 2023)and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto:community@carpentries.org) with the subject "Community Session Host Onboarding" so we can record that you have beed onboarded to the role.
 
 ### Scheduling Community Sessions
 
@@ -38,26 +38,26 @@ Community sessions are organised and conducted through the community session Eth
 #### Before the Discussion Session 
 
 - Be sure to sign on at least five minutes before the call so you can welcome community members as they sign on. Introduce yourself as the host and add a link to where the notes will be captured in the Zoom chat.  
-- Add the agenda for your session to the notes. If you use the Community Sessions Etherpad for notetaking, by copy and paste your agenda under the space where participants sign up to attend.
+- Add the agenda for your session to the notes. If you use the Community Sessions Etherpad for notetaking, copy and paste your agenda under the space where participants sign up to attend.
 - Assign a notetaker if needed.
-- Claim host by following the instructions shared with you in your session confirmation email. If you did not receive a confirmation email, [contact the Community Development Team]mailto:community@carpentries.org).  
+- Claim host by following the instructions shared with you in your session confirmation email. If you did not receive a confirmation email, [contact the Community Development Team](mailto:community@carpentries.org).  
 
 #### During the Discussion Session 
-
-You can follow the agenda below to guide a pre-post workshop discussion session. This and additional agenda templates can be found at the botom of the Community Discussions Etherpad. 
 
 - Welcome, introductions, and reminder of Code of Conduct  
   - [Code of Conduct Link](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Provide multiple options for participation (e.g. raise hand feature in Zoom, type question into chat)
-- If you used the Community Sessions Etherpad for notetaking and would like to save your notes, be sure to export the Etherpad by clicking "Export/Import" which displays as two arrows in the features panel. Remind attendees to do the same.
-  - Thank attendees for participating
-
+- Don’t feel like you have to answer all the questions as the host. Draw on other participants to answer questions.
+- Try to leave enough time at the end (~5 minutes) for final reflections.
+- Thank attendees for participating
 
 #### After the Discussion Session
+
 - Archive the Etherpad by clicking "Save Revision" which displays as star in the features panel.  
 - Fill out the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7)
     - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into the questionnaire.
     - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to instructor.training@carpentries.org.
+- If you used the Community Sessions Etherpad for notetaking and would like to save your notes, be sure to export the Etherpad by clicking "Export/Import" which displays as two arrows in the features panel. Remind attendees to do the same.
 - Clear the information from your session (date/time, attendees, notes) from the Etherpad.
 - (Optional) write a [blog post](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html#how-to-contribute-a-blog-post-to-the-carpentries-blog) about your session.
 
@@ -87,7 +87,7 @@ Limit the amount of time that you give participants to ask and answer questions.
 
 ##### What if there is no co-host/note taker and the session is fully booked?
 
-As a host you are more than welcome to take a few notes, however there is no need to take down every single thing that is said. Note down important points, making sure to add links to useful information. Also encourage the participants to contribute to the notes on the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions).
+As a host you are more than welcome to take a few notes, however there is no need to take down every single thing that is said. Note down important points, making sure to add links to useful information. Also encourage the participants to contribute to the notes on the Community Discussions Etherpad(https://pad.carpentries.org/community-sessions-YYYY).
 
 ##### What if someone joins in late?
 
@@ -105,10 +105,6 @@ The participants will not have updated profiles for the checkout sessions and it
 
 In the case that this happens The Carpentries has a set of [guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html) that can be followed.
 
-##### What if one person doesn’t contribute to the conversation?
-
-Always try and encourage participation. This can be done by asking them a question or asking them their thoughts on a specific topic of conversation. There is also a point in the agenda that allows you as the host to talk to participants and ask them each for a specific question that they need answering.
-
 ##### What if someone asks me to join the session and it is already full?
 
 Participants can email the host directly and ask if it would be ok with them if they joined the session although it is already fully booked.
@@ -119,7 +115,7 @@ It is very important to remind everyone of the [Code of Conduct](https://docs.ca
 
 ##### What if I am having trouble understanding one of the attendees?
 
-You could ask the participant to type their questions in the Community Sessions Etherpad for you to read and respond to them, which will also make note taking much easier. Consider asking them to speak up if the microphone is too soft.
+You could ask the participant to type their questions in the Community Sessions Etherpad for you to read and respond to them, which will also make note taking much easier. Consider asking them to speak louder if the microphone is too soft.
 
 
 
