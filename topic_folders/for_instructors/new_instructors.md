@@ -5,7 +5,7 @@ We are always glad to welcome new Instructors to our community!
 A Carpentries Instructor is a person who has completed our two-day
 [Instructor training course workshop](https://carpentries.github.io/instructor-training/), and
 has performed the required follow-up tasks to complete
-the [checkout process](https://carpentries.github.io/instructor-training/checkout/) to become a certified (or ‘badged’)
+the [checkout process](https://carpentries.github.io/instructor-training/checkout) to become a certified (or ‘badged’)
 Instructor. Our Instructor training has the following overall goals:
 
 - Introduce participants to *evidence-based teaching practices*.
