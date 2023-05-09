@@ -25,7 +25,7 @@ A great way to get into hosting these sessions is to first attend as an observer
 If you are interested in becoming a Community Session Host, there are two options for onboarding, and it will take 15 or ~45 minutes of your time, depending on which option you choose. 
 
 1. **Attend an onboarding session.** These are hosted each quarter. [Contact the Community Development Team](mailto:community@carpentries.org) to find out when the next session will be. 
-2. **Watch the onboarding video.** The video can be found on our YouTube channel (Available 10 May 2023)and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto:community@carpentries.org) with the subject "Community Session Host Onboarding" so we can record that you have beed onboarded to the role.
+2. **Watch the onboarding video.** The video can be found on our YouTube channel (Available 10 May 2023) and you can also view the accompanying [slides](https://docs.google.com/presentation/d/1HzvrQrUljqZRdyw85KviCg3txtMJb4V235wWGRhZrUU/edit?usp=sharing). Once you have watched the video or gone through the presentation, please [send an email](mailto:community@carpentries.org) with the subject "Community Session Host Onboarding" so we can record that you have beed onboarded to the role.
 
 ### Scheduling Community Sessions
 
