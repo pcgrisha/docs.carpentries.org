@@ -43,6 +43,7 @@ Checklist of tasks to complete before release:
 - [ ] fill out “overview” for each module - minutes needed for teaching and exercises, questions and learning objectives
 - [ ] check that contributor guidelines are clear and consistent
 - [ ] clean up files (e.g. delete deprecated files, insure filenames are consistent)
+- [ ] ensure that repository is tagged with (at minimum) the following topics: "lesson", "stable", the name of its lesson program (hyphenated, e.g. "data-carpentry"), and the human language it is written in (e.g. "english") 
 - [ ] update the release notes (NEWS)
 - [ ] tag release on GitHub
 
