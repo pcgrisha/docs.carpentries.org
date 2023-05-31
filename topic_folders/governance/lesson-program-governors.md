@@ -110,7 +110,7 @@ To join one or more Carpentries mailing lists, you will need to [create a login 
 
 ### Step-by-Step Guides
 #### Writing a blog post
-Blog posts are a good way to publicise information to the community and call for contributions/feedback. Posts can be published to The Carpentries website by submitting a Markdown source file to [the carpentries/carpentries.org GitHub repository](https://github.com/carpentries/carpentries.org) via pull request. Blog post templates (as [a GoogleDoc template]() and [a CodiMD template]()) are provided to help you get started.
+Blog posts are a good way to publicise information to the community and call for contributions/feedback. Posts can be published to The Carpentries website by submitting a Markdown source file to [the carpentries/carpentries.org GitHub repository](https://github.com/carpentries/carpentries.org) via pull request. Blog post templates (as [a GoogleDoc template](https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) and [a CodiMD template](https://codimd.carpentries.org/blog-post-template?both)) are provided to help you get started.
 
 1. Blog post source files should be placed in the `_posts` directory of the website source repository, in the appropriate folder by year and month of publication. The following rules must be followed for a post to display on the blog:
 2. The source file name must follow the structure YYYY-MM-DD-blog-post-title.md: the date string and .md file extension are essential for the post to be built and included in the blog listing.
