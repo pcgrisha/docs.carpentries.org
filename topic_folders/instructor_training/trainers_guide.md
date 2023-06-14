@@ -25,12 +25,11 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo 
 - Get acquainted with using [Zoom](../communications/tools/zoom_rooms.md) for videoconferencing.
-- A day or two before the demo, send a reminder email using the [email template](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
-- For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons) (under *More*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
+- A day or two before the demo, send a reminder email using the [email template](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding how to prepare for the demo.  
 
 ##### During the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
--  Once everyone is in the call (audio and video working), remind them of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for 5 minutes from one episode instead of the entire lesson, and if so, suggest strongly they reschedule. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
+-  Once everyone is in the call (audio and video working), remind them of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), explain the procedure for the demo session. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
 -  Ask those not presenting to mute their microphone, and ask them to give feedback using the same positive-vs-negative and content-vs-presentation rubric used in training. For a full session (5 trainees), they should add feedback to the Etherpad. If you have fewer people, you may choose to have them jot down comments and deliver them verbally as time allows.
 -  Give the assignment to the first trainee, then give them a bit of time to set up the demo (they may have to import some packages, load some data, move to a certain folder etc).  
 -  Ask them to share their screen using the “Share Screen” lower menu in Zoom.  
@@ -61,10 +60,6 @@ Trainers may choose to cancel a teaching demo if few or no trainees have signed 
 - If there are trainees signed up, notify them you are canceling this demo and ask them to sign up for another. 
 - Remove the event from the [Etherpad][trainer-pad].
 - Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) so we can remove this from the [Community Calendar][community-calendar].
-
-##### Starting Points for Demos
-
-This table has moved. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons.html) (under *Extras*).
 
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
