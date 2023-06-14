@@ -78,11 +78,7 @@ Hi,
 
 According to the [Teaching Demo Etherpad](https://pad.carpentries.org/teaching-demos) you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Trainer running the session.
 
-I wanted to be sure you know that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach only 5 minutes from a particular section and they often have to reschedule as they seldom are assigned the section they have prepared for. 
-
-A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
-
-For example, if you have chosen The Unix Shell, I may assign you any episode listed at http://swcarpentry.github.io/shell-novice/.
+Please be prepare to teach 1 section (episode) of your chosen Carpentries Lesson. For recommendedations on which lesson preparation, please see the page on [Suggested Lessons for Teaching Demonstrations](https://carpentries.github.io/instructor-training/demo_lessons).
 
 Please remember -- this is not a high stakes test! This is a friendly opportunity to give and receive feedback on a more polished presentation style. In the event that I ask you to repeat your demo, I will provide this information with clear instructions on what to change in an email to you after the demo. You will only receive qualitative feedback publicly during the demo, not information regarding whether this checkout step is considered complete.
 
@@ -127,7 +123,7 @@ I’m happy to say that you have passed your teaching demonstration! You demonst
 
 I’ve forwarded this information to our Core Team. If this was the last step in your Instructor Training checkout, you should hear from them within about a week. 
 
-Welcome to The Carpentries Instructor community!
+Looking forward to having you as a Carpentries Instructor!
 
 Best wishes,
 
@@ -179,7 +175,7 @@ Saludos,
 
 
 
-#### Spanish: Trainee Did Pass Teaching Demo
+#### Spanish: Trainee Passed Teaching Demo
 
 Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
 
