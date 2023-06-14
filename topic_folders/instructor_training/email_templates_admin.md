@@ -317,24 +317,6 @@ questions.
 Best,
 [ sender name ]
 
-##### Attendance checkout
-
-SUBJECT: Carpentries Instructor Training [DATE]: Final Attendance
-
-Hi [TRAINER NAMES], 
-
-Thanks again for teaching The Carpentries Instructor Training on 
-[INSERT DATE]. I hope that you had a great experience. This is a 
-friendly reminder to please send a list of participants who attended
-both days of your training, as well as who did not complete the 
-training, to instructor.training@carpentries.org. Without this list, we are 
-unable to give attendees credit for completing the training. 
-
-Please let me know if you have any questions.
-
-Best, 
-[ SENDER NAME]
-
 ##### Event Cancellation (online training)
 
 Dear [ Trainer names ],
@@ -502,7 +484,7 @@ Best,
 [ name ]
 
 
-##### Follow-up - Trainers Attendance List
+##### Follow-up - Trainers Attendance List (option 1)
 
 Hi [INSERT TRAINERS NAMES], 
 
@@ -516,6 +498,24 @@ Best,
 
 [ sender name ]
 
+
+##### Follow-up with Trainers on Attendance List (option 2)
+
+SUBJECT: Carpentries Instructor Training [DATE]: Final Attendance
+
+Hi [TRAINER NAMES], 
+
+Thanks again for teaching The Carpentries Instructor Training on 
+[INSERT DATE]. I hope that you had a great experience. This is a 
+friendly reminder to please send a list of participants who attended
+both days of your training, as well as who did not complete the 
+training, to instructor.training@carpentries.org. Without this list, we are 
+unable to give attendees credit for completing the training. 
+
+Please let me know if you have any questions.
+
+Best, 
+[ SENDER NAME]
 
 ##### Zoom test invitation to Host Site
 
@@ -638,53 +638,13 @@ in error and have already completed the checkout process, please get
 in touch as we may have missed recording one of your checkout steps.
 
 If you have any questions about the checkout process, please take a 
-look at our checklist: http://www.datacarpentry.org/checkout/ and 
-feel free to send any questions to instructor.training@carpentries.org.
+look at our checklist: [https://carpentries.github.io/instructor-training/checkout.html](https://carpentries.github.io/instructor-training/checkout.html) or send any questions to instructor.training@carpentries.org.
 
 Looking forward to having you as part of our Instructor community!
 
 Best wishes,
 
 [ sender name ]
-
-##### Completed Everything except Lesson Contribution
-
-Subject: Carpentries instructor training: Lesson Contribution
-
-Hi [ trainee name ],
-
-Thank you for participating in an instructor discussion session and a
-teaching demonstration. I’d like to check you off in our system and 
-issue you your Instructor certification, but I do not currently have a 
-record of your lesson contribution. If you’ve already made a 
-contribution, please log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  You can now enter in a link to your lesson contribution.  This will be evaluated in 7-10 days.  If you are having trouble logging into AMY, you may contact  [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) and we will help you log in. If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. In either case, you can track your progress by [logging into AMY here](https://amy.carpentries.org).
-
-Please get in touch if you have any questions.
-
-Best,
-
-[ sender name ]
-
-
-##### Completed Lesson Contribution
-
-Subject: Carpentries instructor training: Discussion and teaching demo
-
-Hi [ trainee_name ],
-
-Thanks very much for your lesson contribution. When you have a 
-moment, please go to the instructor discussion Etherpad here:
-(https://pad.carpentries.org/instructor-discussion) to sign up for a
-discussion session, and then to the teaching demo Etherpad 
-(https://pad.carpentries.org/teaching-demos-recovered) to sign up 
-for your final demo. For more information about completing your 
-instructor certification, please see our simplified checklist:
-(http://www.datacarpentry.org/checkout/) and let us know if you have
-any questions.
-
-Best, 
-
-[ name ]
 
 ##### Checkout Extension Granted
 
