@@ -2,7 +2,7 @@
 
 Historically, information and resources related to [The Carpentries](https://carpentries.org/) have been spread across various websites, Google docs, GitHub repos, and more. The handbook is a one-stop shop that consolidates information on running a workshop, developing or maintaining lessons, participating in an instructor training event, and more! 
 
-Many community members have contributed to this handbook, and we welcome feedback on this Handbook. Feel free to submit issues or pull requests to [this GitHub repo](https://github.com/carpentries/handbook/) to improve this community resource.
+Many community members have contributed to this handbook, and we welcome feedback on this Handbook. Feel free to submit issues or pull requests to [this GitHub repo](https://github.com/carpentries/docs.carpentries.org/) to improve this community resource.
 
 
 ### Building this site
@@ -66,13 +66,13 @@ For the `index.rst` files, links must be formatted as follows. Note the text is 
 
 **Links to external markdown documents**
 
-Something in this template causes `.md` extensions to get stripped, breaking links to things like markdown documents in a GitHub repo.  This can be fixed by adding an anchor tag (`#`) to the end of the url.  For example, `https://github.com/carpentries/handbook/blob/topic_folders/file.md` would become `https://github.com/carpentries/handbook/blob/topic_folders/file.md#`. 
+Something in this template causes `.md` extensions to get stripped, breaking links to things like markdown documents in a GitHub repo.  This can be fixed by adding an anchor tag (`#`) to the end of the url.  For example, `https://github.com/carpentries/docs.carpentries.org/blob/topic_folders/file.md` would become `https://github.com/carpentries/docs.carpentries.org/blob/topic_folders/file.md#`. 
 
 
 #### Additional information
 
-This site is built from the main branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
+This site is built from the main branch of [this repo (carpentries/docs.carpentries.org)](https://github.com/carpentries/docs.carpentries.org/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
 
-If you are making experimental changes to content please be sure to do so in a non-main, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in [carpentries/handbook](https://github.com/carpentries/handbook).
+If you are making experimental changes to content please be sure to do so in a non-main, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in [carpentries/docs.carpentries.org](https://github.com/carpentries/docs.carpentries.org).
 
-Draft content can be added to the [drafts folder of the carpentries/userguides repo](https://github.com/carpentries/usersguides/tree/master/drafts) (in the main branch) without breaking anything. Draft content is not built to the live site and these files may contain inaccurate or out of date information.
+Draft content can be added to the [drafts folder of the carpentries/userguides repo](https://github.com/carpentries/usersguides/tree/main/drafts) (in the main branch) without breaking anything. Draft content is not built to the live site and these files may contain inaccurate or out of date information.

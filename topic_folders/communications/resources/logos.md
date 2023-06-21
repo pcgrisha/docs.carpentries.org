@@ -35,7 +35,7 @@ This policy has been adapted in part from the Python Software Foundation’s [Tr
 
 * [The Carpentries](https://github.com/carpentries/logo)
 * [Data Carpentry](https://github.com/datacarpentry/logos)
-* [Library Carpentry](https://github.com/LibraryCarpentry/lc-styleguide/tree/master/logo)
+* [Library Carpentry](https://github.com/LibraryCarpentry/lc-styleguide/tree/main/logo)
 * [Software Carpentry](https://github.com/swcarpentry/communications/tree/main/misc/logo)
 
 #### Virtual Backgrounds

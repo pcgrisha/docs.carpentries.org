@@ -46,10 +46,10 @@ To contact this group, email [local-latinoamerica@lists.carpentries.org](mailto:
 
 ### Reuniones bilingües / Bilingual Meetings 
 
-- Hacemos reuniones bilingües para la sección "Demostración de enseñanza" de ["Instructor Training Checkout"](https://carpentries.github.io/instructor-training/checkout/). Inscríbase en el [Etherpad](https://pad.carpentries.org/teaching-demos) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
+- Hacemos reuniones bilingües para la sección "Demostración de enseñanza" de ["Instructor Training Checkout"](https://carpentries.github.io/instructor-training/checkout/). Inscríbase en el [Etherpad](https://pad.carpentries.org/teaching-demos) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/main/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
 
 - We host bilingual meetings for the "Teaching Demo Sessions"  part of [Instructor Training Checkout](https://carpentries.github.io/instructor-training/checkout/).
-Sign up on the [Etherpad](https://pad.carpentries.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
+Sign up on the [Etherpad](https://pad.carpentries.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/main/traducciones/demo.md) for how the demo sessions work. 
 
 ### Traducciones / Translations
 
