@@ -1,3 +1,12 @@
 ## Contributing to Carpentries Lessons
 
-Lesson Maintainers actively maintain all Carpentries lessons. However, contributions are always welcome by all community members. Novice contributors can read [this guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md#) developed by Carpentries Instructors.  It provides instructions for contributing to The Carpentries' lesson materials using graphical or command line interfaces with Git and GitHub. The [Help Wanted page](https://carpentries.org/help-wanted-issues) lists issues in need of attention and is a good place to find out where your contributions are most needed.
+Lesson Maintainers actively maintain all Carpentries lessons.
+However, contributions are always welcome by all community members.
+Novice contributors can read the [Instructions for contributing to The Carpentries' lesson materials
+using graphical or command line interfaces with git and GitHub][novice-guide] developed by Carpentries Instructors.
+
+The [Help Wanted page][hwp] lists issues in need of attention
+and is a good place to find out where your contributions are most needed.
+
+[novice-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/main/for_novice_contributors.md#
+[hwp]: https://carpentries.org/help-wanted-issues
