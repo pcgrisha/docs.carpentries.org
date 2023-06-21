@@ -7,7 +7,7 @@
 <!-- the canonical definition of the GitHub labels is stored in the CSV    -->
 <!-- where `data/github_labels.csv` is the the canonical definition of     -->
 <!-- the GitHub labels is stored in the CSV  file hosted at:               -->
-<!-- https://github.com/carpentries/docs.carpentries.org/blob/master/data/github_labels.csv -->
+<!-- https://github.com/carpentries/docs.carpentries.org/blob/main/data/github_labels.csv -->
 
 <h3>"status" labels</h3>
 <ul>
@@ -251,7 +251,7 @@ install.packages("remotes")
     remotes::install_github("fmichonneau/chisel")
     ```
 1. Make sure you have downloaded the [CSV file that contains the information
-   about the GitHub labels](https://raw.githubusercontent.com/carpentries/handbook/master/data/github_labels.csv). It is in the repository for The Carpentries handbook
+   about the GitHub labels](https://raw.githubusercontent.com/carpentries/docs.carpentries.org/main/data/github_labels.csv). It is in the repository for The Carpentries handbook
    in the data folder.
 
 1. Load the `chisel` package and create the labels on one repository:

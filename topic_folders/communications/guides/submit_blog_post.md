@@ -183,7 +183,7 @@ after completion of the build triggered by this change.
       `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
   
     - If you are not sure how to add images in Markdown format, look at an
-      [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
+      [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/main/_posts/2017-12-19-frb_carpentry.md)
       and copy the formatting from there.
      
 13. Once you have completed your changes, you can click on the `Preview` tab to make sure your images are showing.

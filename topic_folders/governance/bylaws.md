@@ -161,7 +161,7 @@ All officers must be members of the Executive Council. Officers will be selected
 ### Removal of Officers
 If an officer steps down, is removed from the Executive Council, or is otherwise unable to meet their obligations as determined by the Chair and/or Vice Chair, a new officer will be elected from the remaining Executive Council Members.
 
-A detailed description of the Responsibilities of Executive Council members and officers is described [elsewhere](https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md#executive-council-roles-and-responsibilities).
+A detailed description of the Responsibilities of Executive Council members and officers is described [elsewhere](https://github.com/carpentries/executive-council-info/blob/main/process/roles_responsibilities.md#executive-council-roles-and-responsibilities).
 
 ## 8. Committees and Task Forces
 
