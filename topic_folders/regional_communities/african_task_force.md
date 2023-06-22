@@ -21,7 +21,7 @@
 * ~~23 March~~
 * ~~20 April~~
 * ~~25 May~~
-* 22 June
+* ~~22 June~~ 
 * 27 July
 * 24 August
 * 28 September
