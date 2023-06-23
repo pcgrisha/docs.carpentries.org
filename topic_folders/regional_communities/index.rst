@@ -1,4 +1,4 @@
-REGIONAL COMMUNITIES
+Regional Communities 
 =======================
 
 .. toctree::

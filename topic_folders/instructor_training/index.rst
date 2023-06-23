@@ -1,4 +1,4 @@
-INSTRUCTOR TRAINING
+Instructor Training 
 =======================
 .. toctree::
    :maxdepth: 1

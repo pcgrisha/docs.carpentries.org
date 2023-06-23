@@ -1,4 +1,4 @@
-COMMUNICATIONS
+Communications
 ================
 
 .. toctree::

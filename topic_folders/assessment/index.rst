@@ -1,4 +1,4 @@
-ASSESSMENT
+Assessment
 =======================
 
 .. toctree::

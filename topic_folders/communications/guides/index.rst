@@ -1,4 +1,4 @@
-HOW-TO GUIDES
+How-to guides
 =============
 
 

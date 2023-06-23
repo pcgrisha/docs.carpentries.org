@@ -1,4 +1,4 @@
-WORKSHOP ADMINISTRATION
+Workshop Administration 
 ========================
 
 Around the world, Carpentries workshops are organised by a team of Regional Coordinators.
