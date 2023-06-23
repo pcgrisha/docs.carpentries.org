@@ -1,4 +1,4 @@
-INSTRUCTOR DEVELOPMENT
+Instructor Development 
 =======================
 
 .. toctree::

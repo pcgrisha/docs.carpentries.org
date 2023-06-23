@@ -1,4 +1,4 @@
-TEACHING AND HOSTING
+Teaching and Hosting 
 ##########################
 
 

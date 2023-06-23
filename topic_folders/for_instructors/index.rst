@@ -1,4 +1,4 @@
-FOR INSTRUCTORS
+For Instructors
 =======================
 
 
