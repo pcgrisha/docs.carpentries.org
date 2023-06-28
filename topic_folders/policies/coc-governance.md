@@ -21,7 +21,7 @@ Additionally, incident response training will be organised for the new and exist
 ## Administration
 
 The Committee consists of a minimum of five members; approximately 10 is recommended.
-The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC, who are full members of the committee except they don't participate in the incident voting as described below.
+The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC, who are full members of the committee except their participation in voting differs from non-liaison members as described below.
 
 The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups.
 They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee.
