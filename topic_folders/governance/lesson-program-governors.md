@@ -112,11 +112,7 @@ To join one or more Carpentries mailing lists, you will need to [create a login 
 #### Writing a blog post
 Blog posts are a good way to publicise information to the community and call for contributions/feedback. Posts can be published to The Carpentries website by submitting a Markdown source file to [the carpentries/carpentries.org GitHub repository](https://github.com/carpentries/carpentries.org) via pull request. Blog post templates (as [a GoogleDoc template](https://docs.google.com/document/d/12sGIQeNVY5ln6Y-nmDQllZpnl6Qo0CeQaBZA94f0Ggo/edit?usp=sharing) and [a CodiMD template](https://codimd.carpentries.org/blog-post-template?both)) are provided to help you get started.
 
-1. Blog post source files should be placed in the `_posts` directory of the website source repository, in the appropriate folder by year and month of publication. The following rules must be followed for a post to display on the blog:
-2. The source file name must follow the structure YYYY-MM-DD-blog-post-title.md: the date string and .md file extension are essential for the post to be built and included in the blog listing.
-3. The first line of the post source file must be `---`
-4. The YAML header (between two `---` lines) must be present
-5. A blank line must be present between the closing `---` of the YAML header and the beginning of the post content
+See the section of this handbook on [Collaborative Blog Post Writing](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html) for step-by-step instructions on how to add a blog post to The Carpentries website.
 
 The Curriculum Team can help LPGCs draft and publish blog posts.
 
