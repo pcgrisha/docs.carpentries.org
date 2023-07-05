@@ -41,7 +41,12 @@ in the README file in your lesson repository.
 
 ## How to Handle Issues
 
-[The Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/) contains some guidelines for how to respond to community-submitted issues. 
+[The Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/) contains some guidelines for how to respond to community-submitted issues.
+
+### Spam and Bots
+
+The Maintainer Onboarding curriculum also contains 
+[guidance on how to handle contributions you judge to be spam and/or made by automated/semi-automated GitHub accounts](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors.html#bots-and-spam).
 
 ## How to Get Help
 
