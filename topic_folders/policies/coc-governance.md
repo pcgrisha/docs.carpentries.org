@@ -2,7 +2,7 @@
 
 ## Membership
 
-Any voting member of the Carpentries community, as defined in The Carpentries bylaws, is eligible to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/) (CoCc).
+Any voting member of the Carpentries community, as defined in The Carpentries bylaws, is eligible to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/).
 
 The Committee will onboard its members on a regular basis (for example, annually) through open calls and from available volunteers.
 New members will undergo an application, selection and onboarding process before they are officially seated on the Committee.
