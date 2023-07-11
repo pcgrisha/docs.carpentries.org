@@ -21,7 +21,7 @@ Additionally, incident response training will be organised for the new and exist
 ## Administration
 
 The Committee consists of a minimum of five members; approximately 10 is recommended.
-The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC, who are full members of the committee except their participation in voting differs from non-liaison members as described below.
+The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC.
 
 The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups.
 They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee.
@@ -47,8 +47,9 @@ Quorum in meetings is more than 50% of the non-liaison CoCc members.
 
 ### Incident voting
 
-For incident-related matters, the liaisons to the CoCc will abstain from voting, unless their vote is needed to ensure that an incident or other need can be responded to in a timely manner according to the [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html).
-The Incident Response Lead of the [Incident Response group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that a liaison vote will be necessary to resolve the incident as per the [guideline for responding](https://docs.carpentries.org/topic_folders/policies/incident-response.html#checklists-for-responding-to-an-incident).
+For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html)).
+
+The Incident Response Lead of the [Incident Response Group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that the Chair's vote will be necessary to resolve the incident as per the [guideline for responding](https://docs.carpentries.org/topic_folders/policies/incident-response.html#checklists-for-responding-to-an-incident).
 
 Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
 
@@ -116,3 +117,4 @@ The CoCc will share the following responsibilities:
 - The Incident Response Leads will create a collaborative document for each case and share with the Incident Response Group
 - A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
 - A time-keeper will notify the Incident Response Group of the various deadlines
+- The liaisons and other members of the committee can fully participate in the Incident Response Group with voting rights provided there is no conflict of interest.  
