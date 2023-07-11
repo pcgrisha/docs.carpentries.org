@@ -32,7 +32,7 @@ Before your training, please visit the [Preparing for your Training](https://car
 
 1. Please read the following:
     - ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    - ["The Carpentries Annual Report"](https://github.com/carpentries/instructor-training/edit/main/index.md)
+    - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/AnnualReport2022.pdf)
 
 1. [Create a profile in The Carpentries database](https://amy.carpentries.org/forms/request_training/). This is necessary for you to be certified as a Carpentries Instructor. Please select "Profile Creation for Pre-approved Trainees" and enter the code [**NOTE to Trainer: please ask your trainees to use the registration code associated with their membership.**]
 
