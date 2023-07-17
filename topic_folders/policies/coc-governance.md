@@ -118,3 +118,13 @@ The CoCc will share the following responsibilities:
 - A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
 - A time-keeper will notify the Incident Response Group of the various deadlines
 - The liaisons and other members of the committee can fully participate in the Incident Response Group with voting rights provided there is no conflict of interest.  
+
+## Communication and collaboration spaces
+
+CoCc communication happens primarily in the #coc-discussion private channel of The Carpentries Slack workspace. Incident report discussions happen initially in the #coc-2023 private channel (as of 2023) and then move to separate, private documents shared among members of the Incidence Response Group for each case (reference [https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-procedure-for-the-carpentries-code-of-conduct-committee]). The #coc-year channel is archived every year to avoid giving access to past discussions to new members. Members of the committee are expected to set their notifications to be alerted for all new messages posted to either channel.  
+
+Members are not expected to be present on Slack perpetually, but should check the channels with some regularity. Subteam communications and other general discussions will happen in written form on Slack, and each member’s input is valued with asynchronous participation encouraged.
+
+For incident responses, each member will provide a preferred way to receive urgent notifications.
+
+The CoCc leverages a shared Google Folder to manage documents that are not on GitHub, such as meeting notes, a membership roster, and incident reports. 
