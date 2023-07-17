@@ -1,5 +1,13 @@
 ## The Carpentries in Africa
 
+### About us
+
+The Carpentries in Africa is a regional subcommunity of The Carpentries, a non-profit organisation where we teach researchers foundational coding and data science skills worldwide. The Carpentries hosts in-person and online Data Carpentry, Library Carpentry, and Software Carpentry workshops. With a community of more than 180 certified Instructors, our goal is to create professional growth opportunities, mentor instructors, coordinate workshops and create sustainable Carpentries communities across the African continent.  
+
+Our monthly Carpentries in Africa community calls, hosted on the 4th Thursday of each month, have been running since 2017. Here we discuss topics that interest scholars on the continent, including previous and upcoming workshops, challenges teaching in Africa, available resources, opportunities, and events. Community members can subscribe to a Slack channel and mailing list. 
+
+A global community of 4000 certified Instructors subscribe to our monthly newsletter, Carpentries Clippings, Slack channels and mailing lists. 
+
 
 ### Looking back at 2022
 
@@ -13,7 +21,7 @@
 
 ### What We Do
 
-- **Monthly African Community Meetup**: Our monthly African Carpentries Community meetups have been running since 2017. Here we discuss topics that interest scholars on the continent, including previous and upcoming workshops, challenges teaching in Africa, available resources, opportunities, and events. , on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
+- **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
 **2023 meetings**:
 * ~~26 January~~
@@ -28,17 +36,17 @@
 * 26 October
 * 23 November
 
-- **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
+- **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that will suit you.
 
-- Angelique Trusler, the African Capacity Development Manager, is ready to help you with any questions you have about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
+- Angelique Trusler, the African Capacity Development Manager, is ready to help you with any questions about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
 
 ### Join Us
 
 To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#local-africa](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
 
-**We would love to get more people involved in specific activities to support our growing African community** - meet the South African instructors [here](https://carpentries.org/regions_za/)!
+**We would love to get more people involved in specific activities to support our growing African community** - Meet the South African instructors [here](https://carpentries.org/regions_za/)!
 
-Subscribe to the calendar below to watch all that is going on throughout our community.
+Subscribe to the calendar below to watch all happening throughout our community.
 
 <div id='calendar' markdown="0">Community Calendar goes here</div><br/>
 
@@ -46,9 +54,9 @@ Subscribe to the calendar below to watch all that is going on throughout our com
 
 ### Historical support
 
-The first Carpentries workshops in Africa were run in 2013 but it only really kicked off in 2015. An African Task Force was established in 2016, consisting of international mentors from the USA, UK, and Australia, and guided the first batch of trained African instructors through the checkout process as most of them were very isolated and new to the world of The Carpentries.
+The first Carpentries workshops in Africa were run in 2013 but only kicked off in 2015. An African Task Force was established in 2016, consisting of international mentors from the USA, UK, and Australia. They guided the first batch of trained African instructors through the checkout process as most were very isolated and new to The Carpentries.
 
-Since then more than 100 African instructors have participated in online or in-person instructor training events. The African Task Force was revived in December 2017, then completely consisting of African instructors. The task force played a role in mentoring instructors who had been trained but hadn’t qualified as well as qualified instructors who needed support before teaching a workshop. Small online sessions were hosted by task force members to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. The second African Task Force finished its activities in December 2018. Some of the South African-based activities were funded through the Rural Campuses Connection Project II (RCCP II), which ended in March 2019. You can read more about the experiences of the African Task Force in this [blog post](https://carpentries.org/blog/2019/01/african-task-force-update/) and about RCCPII [here](https://tenet-rccpii.github.io/rccpii-2018/).
+Since then, more than 180 African instructors have participated in online or in-person instructor training events. The African Task Force was revived in December 2017 and consisted of African instructors. The task force played a role in mentoring instructors who had been trained but hadn’t qualified and qualified instructors who needed support before teaching a workshop. Small online sessions were hosted by task force members to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. The second African Task Force finished its activities in December 2018. Some South African-based activities were funded through the Rural Campuses Connection Project II (RCCP II), which ended in March 2019. You can read more about the experiences of the African Task Force in this [blog post](https://carpentries.org/blog/2019/01/african-task-force-update/) and about RCCPII [here](https://tenet-rccpii.github.io/rccpii-2018/).
 
 ### Blog posts and other Carpentries activities in Africa
 
