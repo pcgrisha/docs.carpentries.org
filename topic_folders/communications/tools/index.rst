@@ -8,6 +8,7 @@ Tools
 
 
    etherpads.md
+   codimd.md
    github_organisations.md
    newsletter.md
    slack-and-email.md
