@@ -30,7 +30,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * ~~20 April~~
 * ~~25 May~~
 * ~~22 June~~ 
-* 27 July
+* ~~27 July~~
 * 24 August
 * 28 September
 * 26 October
