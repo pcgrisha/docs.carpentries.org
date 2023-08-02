@@ -43,7 +43,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Repeat for the other trainees.  
 -  At the end of the season, ask for general questions.  
 -  If all of your trainees passed, you can tell the group at the end of the demo session. If anyone did not pass, tell everyone you will send them each an email to let them know if they passed.  
-- more tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips) of the instructor training website.
+- more tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html#vi.-teaching-demonstration-tips) of the instructor training website.
 
 ##### During the Demo (Troubleshooting)
 - Refer to the [Zoom](../communications/tools/zoom_rooms.md) guide to help troubleshoot connection issues.

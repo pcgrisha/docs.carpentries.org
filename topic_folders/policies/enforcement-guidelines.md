@@ -10,7 +10,7 @@ The committee will make all efforts to meet within two business days to review t
 
 Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.  
 
-Finally, the Chair of the Code of Conduct Committee and Executive Council Liaison will write up a [transparency report](https://github.com/carpentries/executive-council-info/blob/master/code-of-conduct-transparency-reports/) for incidents reported through the incident report form or other channels. Names of the reporter and any persons involved in the incident will not be included unless the resolution results in a termed suspension. The Executive Council may choose to make a public report of the incident while maintaining anonymity of those involved.
+Finally, the Chair of the Code of Conduct Committee and Executive Council Liaison will write up a [transparency report](https://github.com/carpentries/executive-council-info/blob/main/code-of-conduct-transparency-reports/) for incidents reported through the incident report form or other channels. Names of the reporter and any persons involved in the incident will not be included unless the resolution results in a termed suspension. The Executive Council may choose to make a public report of the incident while maintaining anonymity of those involved.
 
 ##### Terminology
 - **Reporter**: Person reporting an incident.

@@ -1,4 +1,4 @@
-GOVERNANCE
+Governance
 =======================
 
 .. toctree::

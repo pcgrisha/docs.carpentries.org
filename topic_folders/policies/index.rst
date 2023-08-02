@@ -1,4 +1,4 @@
-POLICIES
+Policies
 =======================
 
 .. toctree::

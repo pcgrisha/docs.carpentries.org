@@ -5,7 +5,7 @@ This workflow was set up to guide the [Instructor Development Committee Mentorin
 ### Preparing to Run Mentoring Groups
 
 - Meet with the Instructor Development Committee to set the dates of the Mentoring Groups
-- Add Mentoring Group dates to README on GitHub. [Instructions](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/README.md)
+- Add Mentoring Group dates to README on GitHub. [Instructions](https://github.com/carpentries/mentoring/blob/main/mentoring-groups/README.md)
 - Update deadlines in the Mentor and Mentee Application forms
 	- [The Carpentries Mentor Application form](https://goo.gl/forms/1AnNC449zDdCpYhI2)
   - [The Carpentries Mentee Application form](https://goo.gl/forms/L6KNCnOIFrAVxhq72)

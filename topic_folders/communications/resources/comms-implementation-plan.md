@@ -33,8 +33,8 @@ For every project, a complete communications plan will be the sum total of four 
 The role of the Community Development team is to help align all of The Carpentries’ communications with our strategy, and empower our community by communicating effectively. To help The Carpentries’ Communications team review your project communications adequately, each project team will schedule an hour-long communications brainstorm session at the onset of their project to talk about Project particulars highlighted in orange. 
 Highlighted in green are existing project details you will need to have before the Communications brainstorm meeting in order for us to collaboratively develop a wholesome communications plan.
 
-![](https://github.com/carpentries/handbook/raw/main/img/comms-images/comms-plan-1.png)
-![](https://github.com/carpentries/handbook/raw/main/img/comms-images/comms-plan-2.png)
+![](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/comms-plan-1.png)
+![](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/comms-plan-2.png)
 
 ### Audience Mapping
 
@@ -148,13 +148,13 @@ Each [Carpentries team](https://carpentries.org/team/) member either leads or is
 **What should our Executive Council be communicating and when?**
 
 Formal statements regarding The Carpentries’ policies and finances will only be released by the’ Executive Director or Executive Council Chair. 
-The Executive Council is also responsible for communicating [transparency reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) and will also communicate on all other subjects as mandated by their role in their period of tenure. The Secretary of the Executive Council, also regularly publishes [meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes).
+The Executive Council is also responsible for communicating [transparency reports](https://github.com/carpentries/executive-council-info/tree/main/code-of-conduct-transparency-reports) and will also communicate on all other subjects as mandated by their role in their period of tenure. The Secretary of the Executive Council, also regularly publishes [meeting minutes](https://github.com/carpentries/executive-council-info/tree/main/minutes).
 Succinct updates from the Executive Council will continually be added to [Carpentry Clippings](https://carpentries.org/newsletter/) fortnightly, as appropriate.
 
 **What should our Executive Director be communicating and when?**
 
 **Open Letters**
-The Executive Director is responsible for communicating the strategic direction and vision of the organisation, and periodically, [writing open letters](https://github.com/carpentries/conversations/blob/master/letters/ED-letter_2018-01-09.pdf) to the community to inspire, challenge and engage with the community. These open letters will continue to be published in [The Carpentries Conversations repository on GitHub](https://github.com/carpentries/conversations). 
+The Executive Director is responsible for communicating the strategic direction and vision of the organisation, and periodically, [writing open letters](https://github.com/carpentries/conversations/blob/main/letters/ED-letter_2018-01-09.pdf) to the community to inspire, challenge and engage with the community. These open letters will continue to be published in [The Carpentries Conversations repository on GitHub](https://github.com/carpentries/conversations). 
 
 [idea] The communication team’s vision for this initiative is that it evolves into ***a Letters from The Carpentries Team*** series, where we can all share tidbits from our respective desks i.e. on community building, communications, developing curricula, setting up community infrastructure, workshops administration, et al. 
 

@@ -7,8 +7,8 @@ the Carpentries reports. The Council comprises nine members - four elected by th
 
 The Executive Council is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms. For the full description of the Executive Council’s roles and responsibilities, see the Executive Council section of the [Carpentries Bylaws](bylaws.html#executive-council). 
 
-In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentries Clippings](https://carpentries.org/newsletter/) (the organisational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
-The Council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/master/year-in-review) of its activities.
+In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/main/minutes), the Executive Council reports on its activities periodically in [Carpentries Clippings](https://carpentries.org/newsletter/) (the organisational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
+The Council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/main/year-in-review) of its activities.
 
 ### Executive Council Officers
 
@@ -118,7 +118,7 @@ _3. The Executive Council should be informed of (but no decision or advising exp
 
 ### Executive Council Meetings
 
-The Executive Council meets quarterly (i.e. February, May, August, December). Standing Committees hold additional meetings when needed, typically monthly. Minutes of the Executive Council meetings are shared publically in the [executive-council-info repository](https://github.com/carpentries/executive-council-info/tree/master/minutes). Executive Council members are invited to attend the Core Team meetings as needed, and Core Team members attend Standing Committee meetings as needed. A list of issues to be discussed during quarterly Executive Council meetings is provided below. A monthly list of issues to be discussed and tasks to complete outside of quarterly Executive Council meetings is provided in the [Executive Council Work Plan](https://github.com/carpentries/executive-council-info/blob/main/process/workplan.md)
+The Executive Council meets quarterly (i.e. February, May, August, December). Standing Committees hold additional meetings when needed, typically monthly. Minutes of the Executive Council meetings are shared publically in the [executive-council-info repository](https://github.com/carpentries/executive-council-info/tree/main/minutes). Executive Council members are invited to attend the Core Team meetings as needed, and Core Team members attend Standing Committee meetings as needed. A list of issues to be discussed during quarterly Executive Council meetings is provided below. A monthly list of issues to be discussed and tasks to complete outside of quarterly Executive Council meetings is provided in the [Executive Council Work Plan](https://github.com/carpentries/executive-council-info/blob/main/process/workplan.md)
 
 #### February
 * Approve minutes from December meeting
