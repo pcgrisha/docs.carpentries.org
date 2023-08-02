@@ -123,7 +123,7 @@ I’m happy to say that you have passed your teaching demonstration! You demonst
 
 I’ve forwarded this information to our Core Team. If this was the last step in your Instructor Training checkout, you should hear from them within about a week. 
 
-Looking forward to having you as a Carpentries Instructor!
+Congratulations!
 
 Best wishes,
 
