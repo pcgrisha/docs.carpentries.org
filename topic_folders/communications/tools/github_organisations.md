@@ -19,4 +19,4 @@ The Carpentries owns many GitHub organisations, used for individual lesson progr
 
 Occasionally, our GitHub organisations are moved, merged, or split.
 
-* [carpentrieslab](https://github.com/carpentries-lab): Former home of peer-reviewed community developed lessons. Replaced by [carpentries-lab](https://github.com/carpentries-lab).
+* [carpentrieslab](https://github.com/carpentrieslab): Former home of peer-reviewed community developed lessons. Replaced by [carpentries-lab](https://github.com/carpentries-lab).
