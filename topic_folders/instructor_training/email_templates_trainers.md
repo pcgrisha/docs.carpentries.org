@@ -78,7 +78,7 @@ Hi,
 
 According to the [Teaching Demo Etherpad](https://pad.carpentries.org/teaching-demos) you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Trainer running the session.
 
-Please be prepare to teach 1 section (episode) of your chosen Carpentries Lesson. For recommendedations on which lesson preparation, please see the page on [Suggested Lessons for Teaching Demonstrations](https://carpentries.github.io/instructor-training/demo_lessons).
+Please be prepared to teach for 5 minutes, beginning at the start of your chosen episode from a Carpentries lesson. Please review the page on [Suggested Lessons for Teaching Demonstrations](https://carpentries.github.io/instructor-training/demo_lessons) to ensure that your selection is on the list.
 
 Please remember -- this is not a high stakes test! This is a friendly opportunity to give and receive feedback on a more polished presentation style. In the event that I ask you to repeat your demo, I will provide this information with clear instructions on what to change in an email to you after the demo. You will only receive qualitative feedback publicly during the demo, not information regarding whether this checkout step is considered complete.
 
