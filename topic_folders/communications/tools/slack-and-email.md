@@ -50,7 +50,7 @@ If you’re new to Slack or simply overwhelmed by the prospect of yet another Sl
 - Notification settings
 - Communicating with others
 
-For more detailed information on getting started with or using Slack, including accessibility features, please visit [their website](https://slack.com/help/categories/360000049043).
+For more detailed information on getting started with or using Slack, including accessibility features and change of contact information, please visit [their website](https://slack.com/help/categories/360000049043).
 
 Any questions? Email: [community@carpentries.org](mailto:community@carpentries.org)
 
