@@ -40,7 +40,7 @@ Below are descriptions of selected channels found on TopicBox (as discussed in t
 #### Slack Quick Start Guide
 
 ##### About the Guide
-Note: these instructions are created for the browser version of Slack. There are also desktop and mobile apps that may have minor differences.
+Note: these instructions are created for the desktop version of Slack. There are also browser and mobile apps that may have minor differences.
 
 Welcome to The Carpentries Slack group – a place for members to ask questions, share resources, opportunities and more.
 
@@ -50,9 +50,9 @@ If you’re new to Slack or simply overwhelmed by the prospect of yet another Sl
 - Notification settings
 - Communicating with others
 
-For more detailed information on getting started with Slack, including accessibility features, please visit [their website](https://slack.com/help/categories/360000049043).
+For more detailed information on getting started with or using Slack, including accessibility features and change of contact information, please visit [their website](https://slack.com/help/categories/360000049043).
 
-Any questions? Email: [alycia@carpentries.org](mailto:alycia@carpentries.org)
+Any questions? Email: [community@carpentries.org](mailto:community@carpentries.org)
 
 ##### 1. Configuring Your Account
 **A. PROFILE**
@@ -65,43 +65,43 @@ When you set up your profile there are three things to bear in mind:
 **B. STATUS UPDATES**
 Status updates can be a useful way to let others know your availability. For example, if you’re away at a conference, you may want to let others know that you’ll be slower to respond or entirely absent from the group.
 
-Remember that your status will be visible to everyone in the Slack group.
+Remember that your status will be visible to everyone in the Slack workspace.
 
-To update your status, click your name in the top left of the screen and select “update status”. You can select when you want your status update to be removed by stipulating a timeframe from the “clear after” dropdown.
+To update your status, click your avatar in the top right of the screen and your status will display below your name. Select the edit button "("displays as a pencil")" next to your status to select a new status. You can select when you want your status update to be removed by stipulating a timeframe from the “remove status after” dropdown menus.
 
-You can clear a status update at any time by clicking on your name and selecting “clear status” from the dropdown.
+You can clear a status update at any time by clicking on your avatar and selecting “clear status” from the dropdown.
 
 ##### 2. Adjusting the Volume-Notification Settings
 **A. HOW TO FIND AND JOIN CHANNELS**
-By default, you are automatically added to the #community channel which is the shared community of practice that everyone belongs to. You’re also added to #welcome – and encouraged to say hello there.
+By default, you are automatically added to the #general channel which is the shared community of practice that everyone belongs to. You’re also added to #welcome – and encouraged to introduce yourself there.
 
 There are additional channels that you may be interested in. To find them:
 
-- Click the “+” icon to the right of the word “channels” to reveal the “browse channels” page.
-- Want to join in? Simply click “Join channel” at the bottom of the page. The channel will now be listed in your left hand side bar.
+- Click the “v” icon to the right of the word “Channels.” Select "Manage" to reveal “browse channels."
+- Want to join in? Simply highlight the channel you wish to join and click “Join.." The channel will now be listed in your left hand side bar.
 - Click a channel name in the sidebar to load the channel in the center pane.
 
 **B. CONFIGURING YOUR NOTIFICATIONS**
 Slack has lots of options for you to determine how and when you are informed about content – and at what level of granularity.
 - For the overall group
-  - Click on your name at the top left of the page and select “preferences” from the dropdown
+  - Click on your avatar at the top right of the pane and select “preferences” from the dropdown
   - In the Notifications section you have options which include:
   - Set times when you do not want to be disturbed by notifications
   - Enable desktop notifications
   - Choose to be alerted when certain keywords are mentioned
 - Channel by channel
-  - When you’re in a channel, click the “i” icon at the top right. Choose “more” and then click “notifications.”
-  - Here you have the option to ignore any @channel messages, or mute the channel entirely.
+  - When you’re in a channel, click the channel name in the center pane. Choose “Get Notifications for @ Mentions.”
+  - Here you have options to get notified for all messages or to mute the channel entirely.
 - Following a specific thread
   - If another group member posts something of particular interest you can choose to follow that thread.
-  - Click the ellipsis (three dots) to the right of the original post and select “follow message” from the dropdown.
+  - Click the ellipsis (three dots) to the right of the original post and select “get notified about new replies” from the dropdown.
 - Getting a reminder about a specific thread
   - You additionally have the option to be reminded about a thread at a more convenient time. From the ellipsis to the right of the original post select “remind me about this” from the dropdown and choose a timeframe.
 
 **C. MUTING OR LEAVING CHANNELS**
 - If a channel has become too noisy, you can additionally:
-  - Mute it: When you’re in a channel, click the “i” icon at the top right. Choose “more” and then choose “mute” from the dropdown.
-  - Leave it: When you’re in a channel, click the “i” icon at the top right. Choose “more” and then choose “leave” from the dropdown.
+  - Mute it: When you’re in a channel, click the channel name in the center panel. Choose “Get Notifications for @ Mentions” and select "Mute channel."
+  - Leave it: When you’re in a channel, click the channel name in the center panel. Scroll down and click “Leave channel."
 
 ##### Communicating with others
 **A. A FEW POINTS OF ETIQUETTE**
@@ -112,7 +112,7 @@ Slack has lots of options for you to determine how and when you are informed abo
   - While this group is open for anyone interested in The Carpentries, we want it to be somewhere where learning can happen in a supportive, safe environment.
   - Please DO NOT take conversations out of context and copy/paste them elsewhere without the permission of all the individuals who posted.
 - Not all communications will be synchronous
-  - While IM-based conversations can feel very immediate, please don't feel that you have to respond to messages immediately, nor expect others to respond immediately. We're all busy!
+  - While IM-based conversations can feel very immediate, please don't feel that you have to respond to messages immediately, nor expect others to respond immediately. We're all busy! Use your status to inform the community of your availability.
 
 **B. SENDING PRIVATE MESSAGES**
 It can be helpful to others when you're sharing resources and brainstorming solutions to "work out loud" in a specific thread because then your learning becomes a future resource for others, too.
