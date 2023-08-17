@@ -24,15 +24,15 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 - **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
 **2023 meetings**:
-* ~~26 January~~
-* ~~23 February~~
-* ~~23 March~~
-* ~~20 April~~
-* ~~25 May~~
-* ~~22 June~~ 
-* ~~27 July~~
-* 24 August
-* 28 September
+* ~~26 January~~ (Topic of the Month: What does 2023 hold for The Carpentries)
+* ~~23 February~~ (Topic of the Month: Instructors and Carpentries Workshops)
+* ~~23 March~~ (Topic of the Month: The Workbench, presented by Toby Hodges)
+* ~~20 April~~ (Topic of the Month: Networking Session)
+* ~~25 May~~ (Topic of the Month: Carpentries Offline, presented by Jannetta Steyn)
+* ~~22 June~~ (Topic of the Month: My Career Path, presented by Ruth Nanjala)
+* ~~27 July~~ (Topic of the Month: HPC Carpentry: First entrant into The Carpentries' Lesson Program Incubator presented by  Alan O'Cais
+* 24 August (Topic of the month: Changes to Instructor Checkout presented by Kelly Barnes
+* 28 September (Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa)
 * 26 October
 * 23 November
 
