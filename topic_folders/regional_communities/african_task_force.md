@@ -60,6 +60,7 @@ Since then, more than 180 African instructors have participated in online or in-
 
 ### Blog posts and other Carpentries activities in Africa
 
+- [Resources to begin your journey with R](https://www.youtube.com/watch?v=pJaPHx8Fxrw) by Angelique Trusler
 - [Looking back at PyCon Namibia 2023](https://na.pycon.org/2023/)
 -  [Data Science and Machine Learning at PyCon Namibia 2023](https://medium.com/ubuntu-ai/data-science-and-machine-learning-at-pycon-namibia-2023-dbf0990cee1d) by Andreea Munteanu
 - [IoT for Novices in South Africa](https://society-rse.org/iot-for-novices-in-south-africa/) by Jannetta Steyn
