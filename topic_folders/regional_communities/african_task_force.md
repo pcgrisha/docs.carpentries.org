@@ -40,6 +40,12 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 
 - Angelique Trusler, the African Capacity Development Manager, is ready to help you with any questions about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
 
+### Resources
+
+- [The Carpentries Welcome Tip Sheet]((https://zenodo.org/record/8124924)
+- [The Carpentries Membership Tip Sheet](https://zenodo.org/record/8125210)
+- [The Carpentries Instructor Tip Sheet](https://zenodo.org/record/8125138)
+
 ### Join Us
 
 To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#local-africa](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
