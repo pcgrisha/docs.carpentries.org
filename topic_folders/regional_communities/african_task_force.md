@@ -42,7 +42,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 
 ### Resources
 
-- [The Carpentries Welcome Tip Sheet]((https://zenodo.org/record/8124924)
+- [The Carpentries Welcome Tip Sheet](https://zenodo.org/record/8124924)
 - [The Carpentries Membership Tip Sheet](https://zenodo.org/record/8125210)
 - [The Carpentries Instructor Tip Sheet](https://zenodo.org/record/8125138)
 
