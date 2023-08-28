@@ -1,6 +1,6 @@
 ## Sharing Job Postings and other Community Opportunities
 
-The Carpentries has three main mechanisms by which to share job postings and other community opportunities: One is within our newsletter, [Carpentries Clippings](https://carpentries.org/newsletter/) the second is our [#jobs channel on Slack](https://join.slack.com/share/zt-jw6ndhkl-rKyqtKGiBZnVtojOUDtgLw) and the third is the [opportunities mailing list on Topicbox](https://carpentries.topicbox.com/groups/opportunities).
+The Carpentries has three main mechanisms by which to share job postings and other community opportunities: One is within our newsletter, [Carpentries Clippings](https://carpentries.org/newsletter/) the second is our [#jobs channel on Slack](https://carpentries.slack.com/) and the third is the [opportunities mailing list on Topicbox](https://carpentries.topicbox.com/groups/opportunities).
 
 ### Criteria for Posting
 In order to ensure that postings for opportunities featured on Carpentries channels are applicable and of relevance to our community, The Carpentries Core Team has a list of criteria that a posting must meet in order to be shared. If the posting does not meet the criteria, then the post will be removed or modified after discussion with the poster. However, we reserve the right to remove a posting without notice, in particular, if we believe that the opportunity has been submitted automatically (i.e., by a bot).

@@ -45,7 +45,7 @@ you can try to build grassroots communities. There is already
 a [Carpentries Community Cookbook](https://cookbook.carpentries.org/), with
 ‘recipes’ you can adapt for your local needs. There is a
 [Champions mailing list](https://carpentries.topicbox.com/groups/champions), and
-you can also join the `#champions` channel on [Slack](https://swc-slack-invite.herokuapp.com/).
+you can also join the `#champions` channel on [Slack](https://slack-invite.carpentries.org/).
 
 ### Meetups page
 If you are attending a conference or event and would like to network with other Carpentries community members,

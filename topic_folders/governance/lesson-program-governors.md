@@ -93,7 +93,7 @@ The following LPGC repositories exist on GitHub, for collecting meeting minutes,
 * Software Carpentry: <https://github.com/swcarpentry/governance>
 
 #### Slack
-[To join The Carpentries Slack workspace, you can follow this link](https://swc-slack-invite.herokuapp.com/). 
+[To join The Carpentries Slack workspace, you can follow this link](https://slack-invite.carpentries.org/). 
 Although decision-making should be done in meetings and/or publicly-visible communication channels, LPGCs may also wish to create a private channel on this Slack workspace for day-to-day discussions, meeting planning, etc.
 If you are new to Slack, please check out our [Slack Quick Start Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide).
 

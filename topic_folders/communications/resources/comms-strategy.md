@@ -129,7 +129,7 @@ To allow easy access to key pages on our website, we recommend using our Carpent
   
 #### Gitter
 
-Gitter is mainly used by the Library Carpentry community for sprints. The #libraries Slack channel is [now primarily promoted](https://swcarpentry.slack.com/archives/CFFM1KQJH/p1550467370007400) as the preferred everyday communication platform for the Libraries community.
+Gitter is mainly used by the Library Carpentry community for sprints. The #libraries Slack channel is [now primarily promoted](https://carpentries.slack.com/archives/CFFM1KQJH/p1550467370007400) as the preferred everyday communication platform for the Libraries community.
 
 There is also an inactive Data Carpentry Gitter <https://gitter.im/data-carpentry/Lobby> and Software Carpentry <https://gitter.im/swcarpentry/public>.
   
@@ -137,7 +137,7 @@ There is also an inactive Data Carpentry Gitter <https://gitter.im/data-carpentr
 Many of The Carpentries Google Groups are now lists on [TopicBox](https://carpentries.topicbox.com/latest). 
   
 #### Slack
-[The Carpentries Slack](https://swcarpentry.slack.com/) is used to receive immediate feedback from community members. Channels are driven by community members (e.g. initiatives) and Core Team (e.g. project related). Due to the primarily community driven approach to Slack, some channels fall idle while others remain active. A comprehensive approach to weeding channels that are idle for greater than one year will be taken. The approach will be communicated to the community and feedback will be solicited on the channels to be weeded before they are delisted. 
+[The Carpentries Slack](https://carpentries.slack.com/) is used to receive immediate feedback from community members. Channels are driven by community members (e.g. initiatives) and Core Team (e.g. project related). Due to the primarily community driven approach to Slack, some channels fall idle while others remain active. A comprehensive approach to weeding channels that are idle for greater than one year will be taken. The approach will be communicated to the community and feedback will be solicited on the channels to be weeded before they are delisted. 
 
 **Welcome channel**
 

@@ -35,9 +35,9 @@ If you can help in any of these ways, or know of another way you can support dev
 
 ### Cómo participar / How to Get Involved
 
-Para ponerse en contacto con este grupo, envía un correo electrónico a [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). Para unirse a la lista de correo electrónico, visita [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). Para contactarnos directamente también te invitamos a usar [slack](https://swc-slack-invite.herokuapp.com/) en el canal **carpentries_es**.
+Para ponerse en contacto con este grupo, envía un correo electrónico a [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). Para unirse a la lista de correo electrónico, visita [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). Para contactarnos directamente también te invitamos a usar [slack](https://slack-invite.carpentries.org/) en el canal **carpentries_es**.
 
-To contact this group, email [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). To join the email list, visit [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). To contact us directly you are invited to join [slack](https://swc-slack-invite.herokuapp.com/) in the **carpentries_es** channel.
+To contact this group, email [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). To join the email list, visit [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). To contact us directly you are invited to join [slack](https://slack-invite.carpentries.org/) in the **carpentries_es** channel.
 
 ### ¿Quién está involucrado? / Who is Already Involved? 
 
