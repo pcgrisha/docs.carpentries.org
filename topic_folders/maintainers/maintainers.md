@@ -32,7 +32,7 @@ Maintainers represent The Carpentries community and should strive to embody The 
 
 ## How to Stay in Touch
 
-The overall Maintainer community communicates using our [mailing list](https://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you do not already have a Slack account with The Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
+The overall Maintainer community communicates using our [mailing list](https://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://carpentries.slack.com/messages/C8H5LN44V/details/). If you do not already have a Slack account with The Carpentries, you can [create one](https://slack-invite.carpentries.org/).
 
 The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our CodiMD](https://codimd.carpentries.org/maintainers?both) and on the [community calendar](https://carpentries.org/community/#community-events).
 

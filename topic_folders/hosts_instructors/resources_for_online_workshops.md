@@ -95,10 +95,10 @@ Review these if you are looking to write about your teaching experiences:
 
 - March 17, [Is COVID-19 virus demanding alternative software carpentry workshop delivery options?](https://carpentries.topicbox.com/groups/discuss/Tbc9cd93eb778c88f-M2d6f00dfbc11c39d45c4f734/discuss-re-is-covid-19-virus-demanding-alternative-software-carpentry-workshop-delivery-options) discussion on TopicBox
 - April 6, [Post-workshop eval questions related to online delivery?](https://carpentries.topicbox.com/groups/discuss/Te89ac5e6b2f4c3b6-M79691c07b99dc8a455597c88/post-workshop-eval-questions-related-to-online-delivery) discussion on TopicBox
-- April 16, [Discussion under David Perez-Suarez' post](https://swcarpentry.slack.com/archives/C03LE48AY/p1587034437098200) in the #general Slack on his experiences from running an online workshop
-- April 22, [Discussion under Lex Nederbragt's post](https://swcarpentry.slack.com/archives/C08BVNU00/p1587540700017100) in the #instructors Slack channel over tips for participatory live coding online
-- May 14, [Discussion on using online sticky notes for feedback](https://swcarpentry.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) in the #general Slack channel. 
-- May 25, [Discussion on using HackMD when teaching online workshops](https://swcarpentry.slack.com/archives/C08BVNU00/p1590393408057100)
-- May 28, [Discussion on using Zoom Breakout Rooms during online workshops](https://swcarpentry.slack.com/archives/C08BVNU00/p1590647888066700)
+- April 16, [Discussion under David Perez-Suarez' post](https://carpentries.slack.com/archives/C03LE48AY/p1587034437098200) in the #general Slack on his experiences from running an online workshop
+- April 22, [Discussion under Lex Nederbragt's post](https://carpentries.slack.com/archives/C08BVNU00/p1587540700017100) in the #instructors Slack channel over tips for participatory live coding online
+- May 14, [Discussion on using online sticky notes for feedback](https://carpentries.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) in the #general Slack channel. 
+- May 25, [Discussion on using HackMD when teaching online workshops](https://carpentries.slack.com/archives/C08BVNU00/p1590393408057100)
+- May 28, [Discussion on using Zoom Breakout Rooms during online workshops](https://carpentries.slack.com/archives/C08BVNU00/p1590647888066700)
 
 

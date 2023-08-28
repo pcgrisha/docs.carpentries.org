@@ -48,7 +48,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 
 ### Join Us
 
-To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#local-africa](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
+To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#local-africa](https://slack-invite.carpentries.org/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
 
 **We would love to get more people involved in specific activities to support our growing African community** - Meet the South African instructors [here](https://carpentries.org/regions_za/)!
 
