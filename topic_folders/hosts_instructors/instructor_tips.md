@@ -104,7 +104,7 @@ It can be daunting to look at a Carpentries lesson and figure out just exactly h
 
 **Read through the Instructor Guide for the Lesson**
 
-Most Carpentries lessons include a guide for instructors. These are great for novices preparing to teach a lesson for the first time. As an example, see the [instructor notes](http://swcarpentry.github.io/shell-novice/guide/) for the Software Carpentry [Unix Shell](http://swcarpentry.github.io/shell-novice/) lesson. Find instructor notes for other lessons through the **Extras** menu on each lesson's home page.
+Most Carpentries lessons include a guide for instructors. These are great for novices preparing to teach a lesson for the first time. As an example, see the [instructor notes](https://swcarpentry.github.io/shell-novice/instructor/instructor-notes.html) for the Software Carpentry [Unix Shell](http://swcarpentry.github.io/shell-novice/) lesson. Find instructor notes for other lessons through the **Extras** menu on each lesson's home page.
 
 **Pick Exercises**
 
