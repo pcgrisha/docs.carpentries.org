@@ -121,7 +121,7 @@ Hi [ trainee name ],
 
 I’m happy to say that you have passed your teaching demonstration! You demonstrated a [good command of the subject material and a solid understanding of The Carpentries teaching methods]. We are excited about having you as a Carpentries Instructor. 
 
-I’ve forwarded this information to our Core Team. If this was the last step in your Instructor Training checkout, you should hear from them within about a week. 
+I’ve forwarded this information to our Core Team. If this was the last step in your Instructor Training checkout, you should receive your certificate within the next 1-2 weeks. 
 
 Congratulations!
 
