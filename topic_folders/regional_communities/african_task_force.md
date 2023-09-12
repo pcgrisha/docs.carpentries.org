@@ -32,7 +32,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * ~~22 June~~ (Topic of the Month: My Career Path, presented by Ruth Nanjala)
 * ~~27 July~~ (Topic of the Month: HPC Carpentry: First entrant into The Carpentries' Lesson Program Incubator presented by  Alan O'Cais)
 * ~~24 August~~ (Topic of the month: Changes to Instructor Checkout presented by Kelly Barnes)
-* 28 September (Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa - [https://pad.carpentries.org/carpentries25](https://pad.carpentries.org/carpentries25))
+* 28 September (Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa - [https://rb.gy/jiqsf](https://rb.gy/jiqsf))
 * 26 October
 * 23 November
 
