@@ -49,7 +49,7 @@ Quorum in meetings is more than 50% of the non-liaison CoCc members.
 
 For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html)).
 
-The Incident Response Lead of the [Incident Response Group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that the Chair's vote will be necessary to resolve the incident as per the [guideline for responding](https://docs.carpentries.org/topic_folders/policies/incident-response.html#checklists-for-responding-to-an-incident).
+The Incident Response Lead of the [Incident Response Group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the [guideline for responding](https://docs.carpentries.org/topic_folders/policies/incident-response.html#checklists-for-responding-to-an-incident).
 
 Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
 
@@ -111,7 +111,7 @@ The CoCc will share the following responsibilities:
 
 ### Incident Response Group’s roles and responsibilities
 
-- An Incident Response Group of a minimum of 3 people are convened for any reported incident
+- An Incident Response Group of a minimum of 3 or 5 people is convened for any reported incident. An odd number of people is needed to avoid ties during voting.
 - An Incident Response Group must contain at least one member who has handled a live incident as part of a previous Incident Response Group within The Carpentries CoCc or have attended a CoC training organised by CoCc/Staff
 - An Incident Response Lead is selected in the Incident Response Group to ensure accountability of the report handling and completion of all report-handling and enforcement process
 - The Incident Response Leads will create a collaborative document for each case and share with the Incident Response Group
