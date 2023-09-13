@@ -36,7 +36,7 @@ Once you have entered and claimed host access, it is recommended that you create
 
 #### Transferring host privileges or assigning a co-host
 
-A host may transfer host privileges or assign a co-host. 
+A host may transfer host privileges or assign a co-host. It is highly recommended that the host always assign 1-2 co-hosts. The co-hosts can be whoever is facilitating the session with you, or at your discretion, a trusted participant if you are leading a session alone. The co-hosts can help moderate the room, including making sure people are muted. This also ensures that if the host is accidentally bumped from the call, host access will go to a co-host. Otherwise, Zoom will assign host status to a random participant, making it potentially difficult to re-claim host access.  
 
 [Read about how to make a participant a co-host](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
