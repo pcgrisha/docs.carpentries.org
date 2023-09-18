@@ -21,7 +21,7 @@ Additionally, incident response training will be organised for the new and exist
 ## Administration
 
 The Committee consists of a minimum of five members; approximately 10 is recommended.
-The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC, who are full members of the committee except their participation in voting differs from non-liaison members as described below.
+The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC.
 
 The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups.
 They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee.
@@ -47,8 +47,9 @@ Quorum in meetings is more than 50% of the non-liaison CoCc members.
 
 ### Incident voting
 
-For incident-related matters, the liaisons to the CoCc will abstain from voting, unless their vote is needed to ensure that an incident or other need can be responded to in a timely manner according to the [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html).
-The Incident Response Lead of the [Incident Response group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that a liaison vote will be necessary to resolve the incident as per the [guideline for responding](https://docs.carpentries.org/topic_folders/policies/incident-response.html#checklists-for-responding-to-an-incident).
+For incident-related matters, any Incident Response Group (IRG) member will vote and the Chair will break any ties (refer [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html)).
+
+The Incident Response Lead of the [Incident Response Group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that the Incident Response Lead's vote will be necessary to resolve the incident as per the [guideline for responding](https://docs.carpentries.org/topic_folders/policies/incident-response.html#checklists-for-responding-to-an-incident).
 
 Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote.
 
@@ -110,9 +111,20 @@ The CoCc will share the following responsibilities:
 
 ### Incident Response Group’s roles and responsibilities
 
-- An Incident Response Group of a minimum of 3 people are convened for any reported incident
+- An Incident Response Group of a minimum of 3 or 5 people is convened for any reported incident. An odd number of people is needed to avoid ties during voting.
 - An Incident Response Group must contain at least one member who has handled a live incident as part of a previous Incident Response Group within The Carpentries CoCc or have attended a CoC training organised by CoCc/Staff
 - An Incident Response Lead is selected in the Incident Response Group to ensure accountability of the report handling and completion of all report-handling and enforcement process
 - The Incident Response Leads will create a collaborative document for each case and share with the Incident Response Group
 - A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
 - A time-keeper will notify the Incident Response Group of the various deadlines
+- The liaisons and other members of the committee can fully participate in the Incident Response Group with voting rights provided there is no conflict of interest.  
+
+## Communication and collaboration spaces
+
+CoCc communication happens primarily in the #coc-discussion private channel of The Carpentries Slack workspace. Incident report discussions happen initially in the #coc-2023 private channel (as of 2023) and then move to separate, private documents shared among members of the Incidence Response Group for each case (reference [https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-procedure-for-the-carpentries-code-of-conduct-committee]). The #coc-year channel is archived every year to avoid giving access to past discussions to new members. Members of the committee are expected to set their notifications to be alerted for all new messages posted to either channel.  
+
+Members are not expected to be present on Slack perpetually, but should check the channels with some regularity. Subteam communications and other general discussions will happen in written form on Slack, and each member’s input is valued with asynchronous participation encouraged.
+
+For incident responses, each member will provide a preferred way to receive urgent notifications.
+
+The CoCc leverages a shared Google Folder to manage documents that are not on GitHub, such as meeting notes, a membership roster, and incident reports. 
