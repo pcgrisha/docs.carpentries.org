@@ -5,7 +5,7 @@ As part of welcoming and orienting new Instructors to our community, and enrichi
 building skills and community among continuing Instructors, we have a number of ways to support you.
 
 ### Instructor Training Bonus Modules
-We currently offer one bonus module focused on Online Teaching with plans to develop others in the future. 
+We are not currently offering Bonus Modules. However the curriculum is available for community reference. 
 
 #### Online Teaching Bonus Module 
 
@@ -15,8 +15,6 @@ The [Online Teaching Bonus Module](https://carpentries.github.io/instructor-trai
 - Create and discuss plans to engage with learners during a workshop.
 - Write and rehearse an introduction to the logistics of your workshop that prioritizes creating on optimal learner experience and reducing barriers to participation.
 - Propose communications strategies for your instructional team.
-
-You can find upcoming dates and sign up on our [Bonus Module Calendar](https://carpentries.github.io/instructor-training-bonus-modules/bonus_module_calendar/index.html). 
 
 
 ### Mentoring and Development
