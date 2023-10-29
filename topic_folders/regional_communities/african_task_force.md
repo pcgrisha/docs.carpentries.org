@@ -24,17 +24,17 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 - **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
 **2023 meetings**:
-* ~~26 January~~ (Topic of the Month: What does 2023 hold for The Carpentries)
-* ~~23 February~~ (Topic of the Month: Instructors and Carpentries Workshops)
-* ~~23 March~~ (Topic of the Month: The Workbench, presented by Toby Hodges)
-* ~~20 April~~ (Topic of the Month: Networking Session)
-* ~~25 May~~ (Topic of the Month: Carpentries Offline, presented by Jannetta Steyn)
-* ~~22 June~~ (Topic of the Month: My Career Path, presented by Ruth Nanjala)
-* ~~27 July~~ (Topic of the Month: HPC Carpentry: First entrant into The Carpentries' Lesson Program Incubator presented by  Alan O'Cais)
-* ~~24 August~~ (Topic of the month: Changes to Instructor Checkout presented by Kelly Barnes)
-* 28 September (Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa - [https://rb.gy/jiqsf](https://rb.gy/jiqsf))
-* 26 October (Topic of the month: Networking session with Toby Hodges)
-* 23 November
+* 26 January, Topic of the Month: What does 2023 hold for The Carpentries
+* 23 February, Topic of the Month: Instructors and Carpentries Workshops
+* 23 March, Topic of the Month: The Workbench, presented by Toby Hodges
+* 20 April, Topic of the Month: Networking Session
+* 25 May, Topic of the Month: Carpentries Offline, presented by Jannetta Steyn
+* 22 June, Topic of the Month: My Career Path, presented by Ruth Nanjala
+* 27 July, Topic of the Month: HPC Carpentry: First entrant into The Carpentries' Lesson Program Incubator presented by  Alan O'Cais
+* 24 August, Topic of the month: Changes to Instructor Checkout presented by Kelly Barnes
+* 28 September, Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa - [https://rb.gy/jiqsf](https://rb.gy/jiqsf)
+* 26 October, Topic of the month: Networking session with Toby Hodges
+* 23 November, Topic of the month: TBC
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that will suit you.
 
